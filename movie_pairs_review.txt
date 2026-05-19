@@ -1,0 +1,1295 @@
+=== 1/259 [OK] ===
+RAW    : Astrophage on me star, bad bad bad bad bad bad bad bad.
+OUTPUT : Astrophage on me star, bad bad bad bad bad bad bad bad
+INPUT  : That’s the fuel tanks!
+
+=== 2/259 [OK] ===
+RAW    : Rocky happy not alone.
+OUTPUT : Rocky happy not alone
+INPUT  : We call it “Astrophage.” Means star-eater. Astrophage on me star, bad bad bad bad bad bad bad bad. Yeah. Same.
+
+=== 3/259 [OK] ===
+RAW    : Was twenty-three Eridians on ship. Now only one.
+OUTPUT : Was twenty-three Eridians on ship. Now only one
+INPUT  : Why are you alone?
+
+=== 4/259 [OK] ===
+RAW    : Rocky not know. Only Rocky not died. Rocky could not fix.
+OUTPUT : Rocky not know. Only Rocky not died. Rocky could not fix
+INPUT  : Twenty-three…wow…um, what happened to them? I’m sorry. How did they die?
+
+=== 5/259 [OK] ===
+RAW    : How many humans on Grace ship, question?
+OUTPUT : How many humans on Grace ship, question?
+INPUT  : Really all we have to do now is breed enough to survive the trip, and...you gotta wake up because I don’t know how to get your half of the Taumoeba to Erid. So...no pressure. But...we did make a deal. Shh…
+
+=== 6/259 [OK] ===
+RAW    : Only us.
+OUTPUT : Only us
+INPUT  : Oh…um. There were three of us, and…two died on the way here. I wish I knew why. Now it’s only me.
+
+=== 7/259 [OK] ===
+RAW    : Grace Rocky save stars.
+OUTPUT : Grace Rocky save stars
+INPUT  : Really all we have to do now is breed enough to survive the trip, and...you gotta wake up because I don’t know how to get your half of the Taumoeba to Erid. So...no pressure. But...we did make a deal. Shh…
+
+=== 8/259 [OK] ===
+RAW    : Fist my bump? No. It’s fist bump.
+OUTPUT : Fist my bump? No. It’s fist bump
+INPUT  : We can go home.
+
+=== 9/259 [OK] ===
+RAW    : Is same.
+OUTPUT : Is same
+INPUT  : Called a fist bump, by the way. What’s that? Fist my bump? No. It’s fist bump.
+
+=== 10/259 [OK] ===
+RAW    : Grace very bad at make model.
+OUTPUT : Grace very bad at make model
+INPUT  : Not sure what to say, so...just gonna…
+
+=== 11/259 [OK] ===
+RAW    : Need know why star not die. Need plan. 
+OUTPUT : Need know why star not die. Need plan
+INPUT  : Oh ho ho. Do we really need this whole model?
+
+=== 12/259 [OK] ===
+RAW    : Need model to make plan. Grace question is dumb.
+OUTPUT : Need model to make plan. Grace question is dumb
+INPUT  : Not sure what to say, so...just gonna…
+
+=== 13/259 [OK] ===
+RAW    : Why is a school teacher in space, question?
+OUTPUT : Why is a school teacher in space, question?
+INPUT  : Oh boy. You know I used to have one of these in my classroom and it was a lot simpler to set up. One sec—what? What?
+
+=== 14/259 [OK] ===
+RAW    : Don’t like that voice.
+OUTPUT : Don’t like that voice
+INPUT  : No.
+
+=== 15/259 [OK] ===
+RAW    : Scary.
+OUTPUT : Scary
+INPUT  : Can’t unhear it, really.
+
+=== 16/259 [unmatched] ===
+RAW    : Ooh.
+OUTPUT : Ooh
+INPUT  : 
+
+=== 17/259 [OK] ===
+RAW    : What’s so funny, question?
+OUTPUT : What’s so funny, question?
+INPUT  : .
+
+=== 18/259 [OK] ===
+RAW    : It has charm, but, no.
+OUTPUT : It has charm, but, no
+INPUT  : I mean…
+
+=== 19/259 [OK] ===
+RAW    : I like!
+OUTPUT : I like!
+INPUT  : That’s not bad.
+
+=== 20/259 [OK] ===
+RAW    : Is okay. Grace find out when Grace go home.
+OUTPUT : Is okay. Grace find out when Grace go home
+INPUT  : Not sure what to say, so...just gonna…
+
+=== 21/259 [OK] ===
+RAW    : Mm, no understand word.
+OUTPUT : Mm, no understand word
+INPUT  : All right. Well...goodbye.
+
+=== 22/259 [OK] ===
+RAW    : D-d-died? Is died?! Died?!
+OUTPUT : D-d-died? Is died?! Died?!
+INPUT  : Sleep? Uh, just uh, you go like this.
+
+=== 23/259 [OK] ===
+RAW    : No no no no no!
+OUTPUT : No no no no no!
+INPUT  : No—
+
+=== 24/259 [OK] ===
+RAW    : Ohh, understand. We call this [musical chords].
+OUTPUT : Ohh, understand. We call this
+INPUT  : Not died, just laying here for 29,000 seconds and then we…wake up.
+
+=== 25/259 [OK] ===
+RAW    : I watch Grace sleep.
+OUTPUT : I watch Grace sleep
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 26/259 [OK] ===
+RAW    : No, not safe. Eridians must watch sleep.
+OUTPUT : No, not safe. Eridians must watch sleep
+INPUT  : No, that’s fine. That’s a little weird. I’ll be—I’ll be good. Goodnight!
+
+=== 27/259 [OK] ===
+RAW    : …Rocky watch crew many days. Crew not wake up. 
+OUTPUT : Rocky watch crew many days. Crew not wake up
+INPUT  : That’s really interesting, that sounds like something, uh, we can unpack that tomorrow.
+
+=== 28/259 [OK] ===
+RAW    : No, it’s usually closer. On your chest.
+OUTPUT : No, it’s usually closer. On your chest
+INPUT  : That’s where you’re gonna be?
+
+=== 29/259 [OK] ===
+RAW    : But Grace won’t feel comfortable and safe.
+OUTPUT : But Grace won’t feel comfortable and safe
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 30/259 [OK] ===
+RAW    : Hi Grace.
+OUTPUT : Hi Grace
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 31/259 [OK] ===
+RAW    : Grace and Rocky big science. How to kill Astrophage together.
+OUTPUT : Grace and Rocky big science. How to kill Astrophage together
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 32/259 [OK] ===
+RAW    : I keep going this way?
+OUTPUT : I keep going this way?
+INPUT  : Okay—
+
+=== 33/259 [no context] ===
+RAW    : This room boring.
+OUTPUT : This room boring
+INPUT  : 
+
+=== 34/259 [OK] ===
+RAW    : Science, save Earth, save Erid. Good plan.
+OUTPUT : Science, save Earth, save Erid. Good plan
+INPUT  : Rocky!
+
+=== 35/259 [OK] ===
+RAW    : What this up here. question? 
+OUTPUT : What this up here. question?
+INPUT  : No no no no no, no no no!
+
+=== 36/259 [no context] ===
+RAW    : Amaze, amaze, amaze!
+OUTPUT : Amaze, amaze, amaze!
+INPUT  : 
+
+=== 37/259 [no context] ===
+RAW    : Rocky want to see human technology.
+OUTPUT : Rocky want to see human technology
+INPUT  : 
+
+=== 38/259 [OK] ===
+RAW    : Dirty, dirty, dirty, dirty, dirty. Why room so messy, question?
+OUTPUT : Dirty, dirty, dirty, dirty, dirty. Why room so messy, question?
+INPUT  : No no no, no no!
+
+=== 39/259 [OK] ===
+RAW    : This room for garbage? Ohh.
+OUTPUT : This room for garbage? Ohh
+INPUT  : Well, I wasn’t expecting company, was I?!
+
+=== 40/259 [OK] ===
+RAW    : Dirty, dirty, dirty.
+OUTPUT : Dirty, dirty, dirty
+INPUT  : No no no, no no!
+
+=== 41/259 [OK] ===
+RAW    : What’s this? What’s this?
+OUTPUT : What’s this? What’s this?
+INPUT  : —This is the lab, this is, uh, where the science happens.
+
+=== 42/259 [OK] ===
+RAW    : What’s this?
+OUTPUT : What’s this?
+INPUT  : —This is the lab, this is, uh, where the science happens.
+
+=== 43/259 [OK] ===
+RAW    : Rocky will build workshop here. Will need much room for Rocky and much less room for Grace.
+OUTPUT : Rocky will build workshop here. Will need much room for Rocky and much less room for Grace
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 44/259 [OK] ===
+RAW    : We go Petrova line, we collect Astrophage, we study it, we go home, we save Earth!
+OUTPUT : We go Petrova line, we collect Astrophage, we study it, we go home, we save Earth!
+INPUT  : What is happening here?
+
+=== 45/259 [OK] ===
+RAW    : I see Grace!
+OUTPUT : I see Grace!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 46/259 [OK] ===
+RAW    : Apology—
+OUTPUT : Apology
+INPUT  : Woah—!
+
+=== 47/259 [OK] ===
+RAW    : —Apology, apology.
+OUTPUT : Apology, apology
+INPUT  : Woah—!
+
+=== 48/259 [OK] ===
+RAW    : Rocky new to ball.
+OUTPUT : Rocky new to ball
+INPUT  : Rocky, stay.
+
+=== 49/259 [OK] ===
+RAW    : Boundaries.
+OUTPUT : Boundaries
+INPUT  : Rocky, my hand is up. We can’t just show up in a spaceball unannounced and move into someone else’s spaceship, right? There has to be boundaries.
+
+=== 50/259 [OK] ===
+RAW    : Mission.
+OUTPUT : Mission
+INPUT  : We have one mission.
+
+=== 51/259 [OK] ===
+RAW    : Individuals. 
+OUTPUT : Individuals
+INPUT  : But we’re two distinct individuals.
+
+=== 52/259 [OK] ===
+RAW    : Mission.
+OUTPUT : Mission
+INPUT  : We have one mission.
+
+=== 53/259 [OK] ===
+RAW    : Separately.
+OUTPUT : Separately
+INPUT  : Separately.
+
+=== 54/259 [OK] ===
+RAW    : Where my bedroom?
+OUTPUT : Where my bedroom?
+INPUT  : Okay.
+
+=== 55/259 [OK] ===
+RAW    : Not on Earth, more high.
+OUTPUT : Not on Earth, more high
+INPUT  : Be careful back there, okay? The chore wheel’s pretty lopsided. Where on Earth does that go?
+
+=== 56/259 [OK] ===
+RAW    : Wall, wall.
+OUTPUT : Wall, wall
+INPUT  : It goes this way?
+
+=== 57/259 [OK] ===
+RAW    : Yes. Out pointy.
+OUTPUT : Yes. Out pointy
+INPUT  : All the way out to here?
+
+=== 58/259 [OK] ===
+RAW    : Yes, for sleeping.
+OUTPUT : Yes, for sleeping
+INPUT  : What? He tells me what to do, he tells me why to do it, he tells me how to do it, he tells me when to do it, and then when I do it, he’s like, “what are you doing?” I’m just saying you’re gonna get out of the ball and get into a much bigger ball?
+
+=== 59/259 [OK] ===
+RAW    : Grumpy. Angry. Stupid. How long since last sleep, question?
+OUTPUT : Grumpy. Angry. Stupid. How long since last sleep, question?
+INPUT  : Why?! You don’t even use a bed! You have the, like, the Hellraiser thing that you sleep on, what do you need a bed for?
+
+=== 60/259 [OK] ===
+RAW    : Grace look disgust when eat.
+OUTPUT : Grace look disgust when eat
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 61/259 [OK] ===
+RAW    : It look beautiful!
+OUTPUT : It look beautiful!
+INPUT  : How do you look when you eat?
+
+=== 62/259 [OK] ===
+RAW    : Who is Grace talking to, question?
+OUTPUT : Who is Grace talking to, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 63/259 [OK] ===
+RAW    : Can hear. Who are you talking to?
+OUTPUT : Can hear. Who are you talking to?
+INPUT  : There’s no way you can hear me right now.
+
+=== 64/259 [OK] ===
+RAW    : Yes, Grace say, “you can hear this?”
+OUTPUT : Yes, Grace say, “you can hear this?”
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 65/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 66/259 [OK] ===
+RAW    : Hello Grace.
+OUTPUT : Hello Grace
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 67/259 [OK] ===
+RAW    : Hello Grace Friend.
+OUTPUT : Hello Grace Friend
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 68/259 [OK] ===
+RAW    : Did Grace find sampler instruction?
+OUTPUT : Did Grace find sampler instruction?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 69/259 [OK] ===
+RAW    : Oh. This? No, no no. This to screen in front, and now this to that over here. Now Rocky can hear screen.
+OUTPUT : Oh. This? No, no no. This to screen in front, and now this to that over here. Now Rocky can hear screen
+INPUT  : Yes I found the sampler instructions. He’s really smart about some things. Oh my God, he’s got a gun!
+
+=== 70/259 [OK] ===
+RAW    : Oh, point over here.
+OUTPUT : Oh, point over here
+INPUT  : Please don’t point it at me.
+
+=== 71/259 [OK] ===
+RAW    : Oh okay. Now over there.
+OUTPUT : Oh okay. Now over there
+INPUT  : Yes.
+
+=== 72/259 [OK] ===
+RAW    : In mid of ship. There.
+OUTPUT : In mid of ship. There
+INPUT  : You’re pointing it at me again. But his species doesn’t know about things like relativity and radiation. And the rest of the crew?
+
+=== 73/259 [OK] ===
+RAW    : Fuel tanks next to Rocky workshop, there.
+OUTPUT : Fuel tanks next to Rocky workshop, there
+INPUT  : In here? And where did you keep the Astrophage?
+
+=== 74/259 [OK] ===
+RAW    : Too fast, do puppet show, too fast.
+OUTPUT : Too fast, do puppet show, too fast
+INPUT  : I think the radiation is what made your crew sick, Rock. The Astrophage probably just protected you from it. This isn’t something that you could’ve fixed. But I guess together we’re, you know, pretty smart. Since we’re only gonna be able to intersect with the Petrova line for a few seconds, we’re not gonna have enough time to get a good sample.
+
+=== 75/259 [OK] ===
+RAW    : No, do puppet show.
+OUTPUT : No, do puppet show
+INPUT  : I-I-I don’t wanna do the puppet show.
+
+=== 76/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 77/259 [OK] ===
+RAW    : Yes, showtime.
+OUTPUT : Yes, showtime
+INPUT  : —You know, flying along. The problem is, because the solar system is constantly moving, the Petrova line’s gonna constantly be moving. Right? Am I still doing it? Do you still want it?
+
+=== 78/259 [OK] ===
+RAW    : No no no. Use planet gravity to move with line.
+OUTPUT : No no no. Use planet gravity to move with line
+INPUT  : So we’re not gonna have time to get the sampler.
+
+=== 79/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 80/259 [OK] ===
+RAW    : I did.
+OUTPUT : I did
+INPUT  : …I didn’t think of that.
+
+=== 81/259 [OK] ===
+RAW    : Who is Grace talking to?
+OUTPUT : Who is Grace talking to?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 82/259 [OK] ===
+RAW    : Break from what?
+OUTPUT : Break from what?
+INPUT  : I’m not—talking to anyone. . I need a break.
+
+=== 83/259 [OK] ===
+RAW    : Thank you, Mary.
+OUTPUT : Thank you, Mary
+INPUT  : Oh my God. Forget it, this isn’t gonna work. It’s 150 million kilometres away. Racing along at 162 kilometres per second, means we should arrive at Tau Ceti e at— Thank you, Mary.
+
+=== 84/259 [OK] ===
+RAW    : Touching the wave. 
+OUTPUT : Touching the wave
+INPUT  : Ah. Trees. And you climb, you climb to the top, if you can. He’s so excited about us both getting to go home. There’s no harm in pretending for a little while. Touch the wave, Rock.
+
+=== 85/259 [OK] ===
+RAW    : Wiping out. Hanging ten.
+OUTPUT : Wiping out. Hanging ten
+INPUT  : Yeah!
+
+=== 86/259 [OK] ===
+RAW    : Yes, yes, yes.
+OUTPUT : Yes, yes, yes
+INPUT  : Hey! Oh! The Big Apple, baby. And in Three, Apollo trains him, and in Seven, he trains Apollo’s kid!
+
+=== 87/259 [OK] ===
+RAW    : Punch, punch, punch, punch, punch, punch. 
+OUTPUT : Punch, punch, punch, punch, punch, punch
+INPUT  : .
+
+=== 88/259 [OK] ===
+RAW    : Punch, punch, punch.
+OUTPUT : Punch, punch, punch
+INPUT  : .
+
+=== 89/259 [OK] ===
+RAW    : Ne-ither.
+OUTPUT : Ne-ither
+INPUT  : I say neither you say:
+
+=== 90/259 [OK] ===
+RAW    : Ne-i-ther.
+OUTPUT : Ne-i-ther
+INPUT  : Nope. I say neither you say:
+
+=== 91/259 [OK] ===
+RAW    : I like Earth.
+OUTPUT : I like Earth
+INPUT  : That’s not bad.
+
+=== 92/259 [OK] ===
+RAW    : Hm. My mate.
+OUTPUT : Hm. My mate
+INPUT  : I miss the fog. What about you, Rock? What do you miss most about home?
+
+=== 93/259 [unmatched] ===
+RAW    : Yes?
+OUTPUT : Yes?
+INPUT  : 
+
+=== 94/259 [OK] ===
+RAW    : Name is [long string of musical chords].
+OUTPUT : Name is
+INPUT  : I mean, not that you—I mean, I’m su—I’m…what’s their name?
+
+=== 95/259 [OK] ===
+RAW    : Grace have mate, question?
+OUTPUT : Grace have mate, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 96/259 [OK] ===
+RAW    : Rocky hate Mark.
+OUTPUT : Rocky hate Mark
+INPUT  : No. I mean, I did. …But she thought I had my head in the clouds, and I didn’t really want to live in the real world. She was right. …Anyway, now she’s with Mark.
+
+=== 97/259 [OK] ===
+RAW    : 186.3 years.
+OUTPUT : 186.3 years
+INPUT  : But enough about me, you have a mate. How long you been together?
+
+=== 98/259 [OK] ===
+RAW    : No understand.
+OUTPUT : No understand
+INPUT  : ...I’m gonna go to sleep.
+
+=== 99/259 [OK] ===
+RAW    : Is not enough.
+OUTPUT : Is not enough
+INPUT  : That’s a joke, Rock, it’s a long time, you’ve been together a long time.
+
+=== 100/259 [OK] ===
+RAW    : Rocky can see. Boring.
+OUTPUT : Rocky can see. Boring
+INPUT  : Yeah. Do you believe in God? Wish you could see this, Rock.
+
+=== 101/259 [OK] ===
+RAW    : Name of planet. Tau Ceti e. Is same name as star, plus “E.” Boring.
+OUTPUT : Name of planet. Tau Ceti e. Is same name as star, plus “E.” Boring
+INPUT  : Called a fist bump, by the way. What’s that? Fist my bump? No. It’s fist bump.
+
+=== 102/259 [OK] ===
+RAW    : Astrophage sampler in position, question?
+OUTPUT : Astrophage sampler in position, question?
+INPUT  : I guess it could be a little more evocative.
+
+=== 103/259 [OK] ===
+RAW    : It is time go.
+OUTPUT : It is time go
+INPUT  : Yep. Trays are live looking both ways.
+
+=== 104/259 [OK] ===
+RAW    : What is Grace doing, question?
+OUTPUT : What is Grace doing, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 105/259 [OK] ===
+RAW    : Yes. Uh, name is…Medium-Rough Texture Circle Planet.
+OUTPUT : Yes. Uh, name is…Medium-Rough Texture Circle Planet
+INPUT  : I’m having a moment. You know, back on Earth if you discover something you get to name it. You were technically the first one here.
+
+=== 106/259 [unmatched] ===
+RAW    : Personal.
+OUTPUT : Personal
+INPUT  : 
+
+=== 107/259 [OK] ===
+RAW    : Name is [musical chords]—
+OUTPUT : Name is
+INPUT  : I mean, not that you—I mean, I’m su—I’m…what’s their name?
+
+=== 108/259 [OK] ===
+RAW    : Need human word for Rocky mate.
+OUTPUT : Need human word for Rocky mate
+INPUT  : It’s okay, it’s okay, I-I remember.
+
+=== 109/259 [OK] ===
+RAW    : Is beautiful!
+OUTPUT : Is beautiful!
+INPUT  : ...Adrian.
+
+=== 110/259 [OK] ===
+RAW    : What?
+OUTPUT : What?
+INPUT  : .
+
+=== 111/259 [OK] ===
+RAW    : But if Astrophage going to Adrian to breed, there should be more leaving.
+OUTPUT : But if Astrophage going to Adrian to breed, there should be more leaving
+INPUT  : It’s the same amount, both coming and going.
+
+=== 112/259 [OK] ===
+RAW    : What? What Grace see? What Grace see, question?
+OUTPUT : What? What Grace see? What Grace see, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 113/259 [OK] ===
+RAW    : Is like cells, on Erid.
+OUTPUT : Is like cells, on Erid
+INPUT  : Life. It’s not just Astrophage, it’s bacteria, it’s protozoa.
+
+=== 114/259 [OK] ===
+RAW    : What this mean, question?
+OUTPUT : What this mean, question?
+INPUT  : Well that’s weird.
+
+=== 115/259 [OK] ===
+RAW    : Oh! Grace! Grace!
+OUTPUT : Oh! Grace! Grace!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 116/259 [OK] ===
+RAW    : Life! Life is reason! Life is reason!
+OUTPUT : Life! Life is reason! Life is reason!
+INPUT  : Yeah?
+
+=== 117/259 [OK] ===
+RAW    : No no no!
+OUTPUT : No no no!
+INPUT  : No—
+
+=== 118/259 [OK] ===
+RAW    : No no—
+OUTPUT : No no
+INPUT  : No—
+
+=== 119/259 [OK] ===
+RAW    : —No understand, no understand! Grace, Grace, Grace!
+OUTPUT : No understand, no understand! Grace, Grace, Grace!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 120/259 [OK] ===
+RAW    : Grace! Life is reason!
+OUTPUT : Grace! Life is reason!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 121/259 [OK] ===
+RAW    : Life is reason! Life is reason!
+OUTPUT : Life is reason! Life is reason!
+INPUT  : Yeah?
+
+=== 122/259 [OK] ===
+RAW    : Life on Adrian is reason Astrophage imbalance. Life on Adrian makes Astrophage die!
+OUTPUT : Life on Adrian is reason Astrophage imbalance. Life on Adrian makes Astrophage die!
+INPUT  : Wh—life is reason what?
+
+=== 123/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 124/259 [OK] ===
+RAW    : Grace, if we bring predator home, our stars not die.
+OUTPUT : Grace, if we bring predator home, our stars not die
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 125/259 [OK] ===
+RAW    : Game not over. I make chain. I make long chain. I put collection device on end.
+OUTPUT : Game not over. I make chain. I make long chain. I put collection device on end
+INPUT  : If there is some kind of microbial predator on Adrian, it’ll be in the clouds where Astrophage breeds. Check. Oh! Problem is, this ship wasn’t built to go into the atmosphere. If we get within 5 kilometres we’ll be ripped into two million pieces and then we’ll burn up, game over.
+
+=== 126/259 [OK] ===
+RAW    : Like this chain, look.
+OUTPUT : Like this chain, look
+INPUT  : Oh yeah, yeah, 5 kilometres of chain, sure. Guard me!
+
+=== 127/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 128/259 [OK] ===
+RAW    : What that?
+OUTPUT : What that?
+INPUT  : Well that’s weird.
+
+=== 129/259 [no context] ===
+RAW    : Woah, woah!
+OUTPUT : Woah, woah!
+INPUT  : 
+
+=== 130/259 [OK] ===
+RAW    : Thumbs up, baby.
+OUTPUT : Thumbs up, baby
+INPUT  : Fishing! Can you believe it? It could work.
+
+=== 131/259 [OK] ===
+RAW    : Hello Earth! Plan is like fishing. We get very close to Adrian atmosphere, and lower collector into clouds with chain, then Grace go on hull to reel it in. If ship not at precise angle and speed, we die! Example!
+OUTPUT : Hello Earth! Plan is like fishing. We get very close to Adrian atmosphere, and lower collector into clouds with chain, then Grace go on hull to reel it in. If ship not at precise angle and speed, we die! Example!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 132/259 [OK] ===
+RAW    : We must fly backwards to keep proper velocity, even though Grace still have no pilot experience.
+OUTPUT : We must fly backwards to keep proper velocity, even though Grace still have no pilot experience
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 133/259 [OK] ===
+RAW    : More! No, no, no, left! Be left, more left, more left!
+OUTPUT : More! No, no, no, left! Be left, more left, more left!
+INPUT  : I’ve been practicing, haven’t I?
+
+=== 134/259 [no context] ===
+RAW    : Is perfect! No, wrong. 
+OUTPUT : Is perfect! No, wrong
+INPUT  : 
+
+=== 135/259 [no context] ===
+RAW    : No. Wrong way, wrong way. Wrong angle, bad, bad, bad. Good, good, good! 
+OUTPUT : No. Wrong way, wrong way. Wrong angle, bad, bad, bad. Good, good, good!
+INPUT  : 
+
+=== 136/259 [no context] ===
+RAW    : Good! Bad, not enough, not enough. Too much, too much, too much!
+OUTPUT : Good! Bad, not enough, not enough. Too much, too much, too much!
+INPUT  : 
+
+=== 137/259 [OK] ===
+RAW    : Left, left, left!
+OUTPUT : Left, left, left!
+INPUT  : I’m barely pulling it!
+
+=== 138/259 [OK] ===
+RAW    : No, is bad. Grace Rocky dead. All Rocky plural, all—
+OUTPUT : No, is bad. Grace Rocky dead. All Rocky plural, all
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 139/259 [no context] ===
+RAW    : —Earth die, we die, we die.
+OUTPUT : Earth die, we die, we die
+INPUT  : 
+
+=== 140/259 [OK] ===
+RAW    : Rocky has built predator collector, Rocky chain spooled and ready, Grace pilot training, not as good. What think, Earth? 
+OUTPUT : Rocky has built predator collector, Rocky chain spooled and ready, Grace pilot training, not as good. What think, Earth?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 141/259 [OK] ===
+RAW    : Hello?
+OUTPUT : Hello?
+INPUT  : Oh my God. Look at this, look how far away he is. That is where he is.
+
+=== 142/259 [OK] ===
+RAW    : What?
+OUTPUT : What?
+INPUT  : .
+
+=== 143/259 [OK] ===
+RAW    : Why not you tell them yourself when you return home, question?
+OUTPUT : Why not you tell them yourself when you return home, question?
+INPUT  : We’re not actually talking to Earth, Earth’s too far away. You know, we just record these messages and we tell them what we’ve learned, and then when we’re done, we’ll send them all back in a probe.
+
+=== 144/259 [OK] ===
+RAW    : What?
+OUTPUT : What?
+INPUT  : .
+
+=== 145/259 [OK] ===
+RAW    : So what happens Grace, question?
+OUTPUT : So what happens Grace, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 146/259 [OK] ===
+RAW    : So, Grace die, question?
+OUTPUT : So, Grace die, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 147/259 [OK] ===
+RAW    : Why didn’t you tell me?
+OUTPUT : Why didn’t you tell me?
+INPUT  : Yeah, once—once we’re done, I’m…I’m gonna die.
+
+=== 148/259 [OK] ===
+RAW    : No. Grace say Grace go home.
+OUTPUT : No. Grace say Grace go home
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 149/259 [unmatched] ===
+RAW    : No.
+OUTPUT : No
+INPUT  : 
+
+=== 150/259 [unmatched] ===
+RAW    : No.
+OUTPUT : No
+INPUT  : 
+
+=== 151/259 [OK] ===
+RAW    : What mean? What mean “make peace”?
+OUTPUT : What mean? What mean “make peace”?
+INPUT  : Well that’s weird.
+
+=== 152/259 [unmatched] ===
+RAW    : No.
+OUTPUT : No
+INPUT  : 
+
+=== 153/259 [unmatched] ===
+RAW    : No.
+OUTPUT : No
+INPUT  : 
+
+=== 154/259 [OK] ===
+RAW    : Grace?
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 155/259 [OK] ===
+RAW    : You are...[musical trilling]...need word.
+OUTPUT : You are......need word
+INPUT  : Yeah?
+
+=== 156/259 [OK] ===
+RAW    : To risk self to help another.
+OUTPUT : To risk self to help another
+INPUT  : W-w-what—what word do you need?
+
+=== 157/259 [OK] ===
+RAW    : Grace?
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 158/259 [no context] ===
+RAW    : How much Astrophage you need, question?
+OUTPUT : How much Astrophage you need, question?
+INPUT  : 
+
+=== 159/259 [OK] ===
+RAW    : I can give. 
+OUTPUT : I can give
+INPUT  : Two million kilograms.
+
+=== 160/259 [no context] ===
+RAW    : I go home six years slower.
+OUTPUT : I go home six years slower
+INPUT  : 
+
+=== 161/259 [OK] ===
+RAW    : Rocky watch crew die. Could not fix. Grace say Grace will die. Rocky fix.
+OUTPUT : Rocky watch crew die. Could not fix. Grace say Grace will die. Rocky fix
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 162/259 [OK] ===
+RAW    : Grace go home.
+OUTPUT : Grace go home
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 163/259 [OK] ===
+RAW    : I thought you made peace, question?
+OUTPUT : I thought you made peace, question?
+INPUT  : ...Okay.
+
+=== 164/259 [OK] ===
+RAW    : Woah, woah, woah, w-what? What’s happening?
+OUTPUT : Woah, woah, woah, w-what? What’s happening?
+INPUT  : Well that’s weird.
+
+=== 165/259 [OK] ===
+RAW    : Oh! Mm.
+OUTPUT : Oh! Mm
+INPUT  : A hug.
+
+=== 166/259 [OK] ===
+RAW    : Oh. I-I—wait I do same?
+OUTPUT : Oh. I-I—wait I do same?
+INPUT  : It’s uh, usually not something one does by themselves.
+
+=== 167/259 [OK] ===
+RAW    : How do you know when the hug is done?
+OUTPUT : How do you know when the hug is done?
+INPUT  : Would you just get in here?
+
+=== 168/259 [OK] ===
+RAW    : Oh. Are you feeling it now?
+OUTPUT : Oh. Are you feeling it now?
+INPUT  : You just feel it.
+
+=== 169/259 [OK] ===
+RAW    : Oh, o-okay, yeah.
+OUTPUT : Oh, o-okay, yeah
+INPUT  : Nope.
+
+=== 170/259 [OK] ===
+RAW    : Is full good.
+OUTPUT : Is full good
+INPUT  : Yeah. So...what are you gonna do for the next 20 years? You got a plan? Go. It’s not half-bad.
+
+=== 171/259 [no context] ===
+RAW    : Time go fishing, question?
+OUTPUT : Time go fishing, question?
+INPUT  : 
+
+=== 172/259 [OK] ===
+RAW    : Three thousand metres.
+OUTPUT : Three thousand metres
+INPUT  : It’s now or never.
+
+=== 173/259 [OK] ===
+RAW    : Probe signal good.
+OUTPUT : Probe signal good
+INPUT  : Three thousand.
+
+=== 174/259 [OK] ===
+RAW    : Grace go out on hull to retrieve collector? No fun at all.
+OUTPUT : Grace go out on hull to retrieve collector? No fun at all
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 175/259 [OK] ===
+RAW    : Oh, humour. Confusing.
+OUTPUT : Oh, humour. Confusing
+INPUT  : It’s a joke.
+
+=== 176/259 [OK] ===
+RAW    : What problem, question?
+OUTPUT : What problem, question?
+INPUT  : Well that’s weird.
+
+=== 177/259 [OK] ===
+RAW    : Words of encouragement.
+OUTPUT : Words of encouragement
+INPUT  : It’s fine, it’s just—the sky is...slightly on fire.
+
+=== 178/259 [OK] ===
+RAW    : Words of great encouragement.
+OUTPUT : Words of great encouragement
+INPUT  : You can’t just say “words of encouragement.”
+
+=== 179/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 180/259 [unmatched] ===
+RAW    : Yes.
+OUTPUT : Yes
+INPUT  : 
+
+=== 181/259 [OK] ===
+RAW    : Collector is closed, move winch into position!
+OUTPUT : Collector is closed, move winch into position!
+INPUT  : Great.
+
+=== 182/259 [OK] ===
+RAW    : Collector should be here soon. 
+OUTPUT : Collector should be here soon
+INPUT  : Woah! How long is it supposed to take?
+
+=== 183/259 [no context] ===
+RAW    : Amaze, amaze, amaze.
+OUTPUT : Amaze, amaze, amaze
+INPUT  : 
+
+=== 184/259 [no context] ===
+RAW    : Careful, collector important.
+OUTPUT : Careful, collector important
+INPUT  : 
+
+=== 185/259 [OK] ===
+RAW    : Oh, hurry hurry.
+OUTPUT : Oh, hurry hurry
+INPUT  : Yep!
+
+=== 186/259 [OK] ===
+RAW    : Hurry hurry!
+OUTPUT : Hurry hurry!
+INPUT  : Yep!
+
+=== 187/259 [OK] ===
+RAW    : Grace?
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 188/259 [OK] ===
+RAW    : Grace, status update.
+OUTPUT : Grace, status update
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 189/259 [no context] ===
+RAW    : Status update.
+OUTPUT : Status update
+INPUT  : 
+
+=== 190/259 [OK] ===
+RAW    : Grace? 
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 191/259 [OK] ===
+RAW    : Grace is safe, question?
+OUTPUT : Grace is safe, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 192/259 [OK] ===
+RAW    : Good good good, come inside with predator collector now.
+OUTPUT : Good good good, come inside with predator collector now
+INPUT  : I’m okay.
+
+=== 193/259 [no context] ===
+RAW    : Must move now, go, go. 
+OUTPUT : Must move now, go, go
+INPUT  : 
+
+=== 194/259 [OK] ===
+RAW    : No, Grace, bad idea, come inside.
+OUTPUT : No, Grace, bad idea, come inside
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 195/259 [OK] ===
+RAW    : No, no no no no, Grace will die! Can repeat mission, can try again later.
+OUTPUT : No, no no no no, Grace will die! Can repeat mission, can try again later
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 196/259 [OK] ===
+RAW    : Abort, abort, abort! Grace will die! No no no no no no no no!
+OUTPUT : Abort, abort, abort! Grace will die! No no no no no no no no!
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 197/259 [OK] ===
+RAW    : Grace?
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 198/259 [no context] ===
+RAW    : Amaze, amaze, amaze! 
+OUTPUT : Amaze, amaze, amaze!
+INPUT  : 
+
+=== 199/259 [OK] ===
+RAW    : Grace okay, question?
+OUTPUT : Grace okay, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 200/259 [OK] ===
+RAW    : Good good, good good good, good.
+OUTPUT : Good good, good good good, good
+INPUT  : Well, I’m not dead, so yes.
+
+=== 201/259 [OK] ===
+RAW    : Noise is from all around, is loudest [echoing] at portside of bedroom!
+OUTPUT : Noise is from all around, is loudest at portside of bedroom!
+INPUT  : Where is that noise coming from?
+
+=== 202/259 [OK] ===
+RAW    : We leave now, question?
+OUTPUT : We leave now, question?
+INPUT  : Gravity’s tearing the ship apart!
+
+=== 203/259 [OK] ===
+RAW    : Hull bending in big room below bedroom.
+OUTPUT : Hull bending in big room below bedroom
+INPUT  : We leave now, statement.
+
+=== 204/259 [OK] ===
+RAW    : Bad bad bad!
+OUTPUT : Bad bad bad!
+INPUT  : That’s the fuel tanks!
+
+=== 205/259 [OK] ===
+RAW    : Bad bad bad!
+OUTPUT : Bad bad bad!
+INPUT  : That’s the fuel tanks!
+
+=== 206/259 [OK] ===
+RAW    : Bad bad bad!
+OUTPUT : Bad bad bad!
+INPUT  : That’s the fuel tanks!
+
+=== 207/259 [OK] ===
+RAW    : Bad bad bad!
+OUTPUT : Bad bad bad!
+INPUT  : That’s the fuel tanks!
+
+=== 208/259 [OK] ===
+RAW    : Bad bad bad!
+OUTPUT : Bad bad bad!
+INPUT  : That’s the fuel tanks!
+
+=== 209/259 [OK] ===
+RAW    : I have an idea. First, no crash, then, not explode. Deal?
+OUTPUT : I have an idea. First, no crash, then, not explode. Deal?
+INPUT  : Not yet! We need to get into orbit or we’ll crash!
+
+=== 210/259 [unmatched] ===
+RAW    : Now?
+OUTPUT : Now?
+INPUT  : 
+
+=== 211/259 [OK] ===
+RAW    : Now? Now?
+OUTPUT : Now? Now?
+INPUT  : Wait.
+
+=== 212/259 [OK] ===
+RAW    : Why ship moving, question?
+OUTPUT : Why ship moving, question?
+INPUT  : Now! Did we do it?
+
+=== 213/259 [OK] ===
+RAW    : Grace, what’s happening, question?
+OUTPUT : Grace, what’s happening, question?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 214/259 [OK] ===
+RAW    : Eject bad fuel bay, question?
+OUTPUT : Eject bad fuel bay, question?
+INPUT  : The fuel is migrating to Adrian!
+
+=== 215/259 [OK] ===
+RAW    : Eject other fuel bay.
+OUTPUT : Eject other fuel bay
+INPUT  : Yeah. . Rocky!
+
+=== 216/259 [OK] ===
+RAW    : Grace?
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 217/259 [OK] ===
+RAW    : Did we...find predator?
+OUTPUT : Did we...find predator?
+INPUT  : Rock, would you just—give me a little—chance please to sleep a little?
+
+=== 218/259 [no context] ===
+RAW    : No? Is yes.
+OUTPUT : No? Is yes
+INPUT  : 
+
+=== 219/259 [no context] ===
+RAW    : Amaze, amaze, amaze. Rocky breeder tank design.
+OUTPUT : Amaze, amaze, amaze. Rocky breeder tank design
+INPUT  : 
+
+=== 220/259 [OK] ===
+RAW    : We can go home, statement.
+OUTPUT : We can go home, statement
+INPUT  : Good job, Rock.
+
+=== 221/259 [OK] ===
+RAW    : Fist my bump.
+OUTPUT : Fist my bump
+INPUT  : We can go home.
+
+=== 222/259 [no context] ===
+RAW    : Good, good, good. 
+OUTPUT : Good, good, good
+INPUT  : 
+
+=== 223/259 [OK] ===
+RAW    : So what we do now, question?
+OUTPUT : So what we do now, question?
+INPUT  : Well that’s weird.
+
+=== 224/259 [OK] ===
+RAW    : Is special clothing for celebration!
+OUTPUT : Is special clothing for celebration!
+INPUT  : We party. Wow!
+
+=== 225/259 [OK] ===
+RAW    : What?
+OUTPUT : What?
+INPUT  : .
+
+=== 226/259 [OK] ===
+RAW    : What is this?
+OUTPUT : What is this?
+INPUT  : Well that’s weird.
+
+=== 227/259 [OK] ===
+RAW    : Rocky—Rocky get one!
+OUTPUT : Rocky—Rocky get one!
+INPUT  : If you don’t mind.
+
+=== 228/259 [OK] ===
+RAW    : Is good!
+OUTPUT : Is good!
+INPUT  : There you go.
+
+=== 229/259 [OK] ===
+RAW    : My portable Earth thinking machine!
+OUTPUT : My portable Earth thinking machine!
+INPUT  : Yeah? It’s not much, just a little something. Your very own laptop.
+
+=== 230/259 [OK] ===
+RAW    : Thank, thank, thank.
+OUTPUT : Thank, thank, thank
+INPUT  : With all human knowledge.
+
+=== 231/259 [unmatched] ===
+RAW    : Yes? 
+OUTPUT : Yes?
+INPUT  : 
+
+=== 232/259 [OK] ===
+RAW    : What—what this?
+OUTPUT : What—what this?
+INPUT  : Well that’s weird.
+
+=== 233/259 [OK] ===
+RAW    : Rocky can’t forget.
+OUTPUT : Rocky can’t forget
+INPUT  : It’s Earth. So y-you can remember me.
+
+=== 234/259 [OK] ===
+RAW    : I didn’t get you anything.
+OUTPUT : I didn’t get you anything
+INPUT  : …I didn’t think of that.
+
+=== 235/259 [OK] ===
+RAW    : But if I were to give you something?
+OUTPUT : But if I were to give you something?
+INPUT  : You gave me everything.
+
+=== 236/259 [OK] ===
+RAW    : Fuel tank fix okay, question?
+OUTPUT : Fuel tank fix okay, question?
+INPUT  : . . I’m trying to think if there’s anything I forgot…
+
+=== 237/259 [OK] ===
+RAW    : O-oh, good! Happy, happy, happy.
+OUTPUT : O-oh, good! Happy, happy, happy
+INPUT  : Oh, yeah, yeah, they’re working great.
+
+=== 238/259 [OK] ===
+RAW    : Yes, friend?
+OUTPUT : Yes, friend?
+INPUT  : . Well. My friend.
+
+=== 239/259 [OK] ===
+RAW    : Grace? 
+OUTPUT : Grace?
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 240/259 [no context] ===
+RAW    : No one to watch you sleep.
+OUTPUT : No one to watch you sleep
+INPUT  : 
+
+=== 241/259 [OK] ===
+RAW    : You are very brave.
+OUTPUT : You are very brave
+INPUT  : ...Yeah.
+
+=== 242/259 [OK] ===
+RAW    : You are bravest human I have ever met.
+OUTPUT : You are bravest human I have ever met
+INPUT  : Oh, I don’t know about that.
+
+=== 243/259 [OK] ===
+RAW    : Is joke!
+OUTPUT : Is joke!
+INPUT  : Hey.
+
+=== 244/259 [OK] ===
+RAW    : I only meet one human, and is you!
+OUTPUT : I only meet one human, and is you!
+INPUT  : I know.
+
+=== 245/259 [OK] ===
+RAW    : Good joke.
+OUTPUT : Good joke
+INPUT  : I get it. It’s a good joke.
+
+=== 246/259 [OK] ===
+RAW    : No understand word.
+OUTPUT : No understand word
+INPUT  : ...I’m gonna go to sleep.
+
+=== 247/259 [OK] ===
+RAW    : But I won’t see you later.
+OUTPUT : But I won’t see you later
+INPUT  : Means, uh…“see you later.”
+
+=== 248/259 [OK] ===
+RAW    : We don’t. We do this.
+OUTPUT : We don’t. We do this
+INPUT  : I know. How do you say goodbye back home?
+
+=== 249/259 [OK] ===
+RAW    : Hello Earth! I am Rocky. I am Rocky from Erid, I am not Rocky from movie, no no no no.
+OUTPUT : Hello Earth! I am Rocky. I am Rocky from Erid, I am not Rocky from movie, no no no no
+INPUT  : Yeah.
+
+=== 250/259 [OK] ===
+RAW    : Why you take so long?
+OUTPUT : Why you take so long?
+INPUT  : You shouldn’t have. That’s a noogie. I’m coming!
+
+=== 251/259 [OK] ===
+RAW    : I knock and I knock.
+OUTPUT : I knock and I knock
+INPUT  : Why you always gotta be so early?
+
+=== 252/259 [OK] ===
+RAW    : Grace, the door. Close the door.
+OUTPUT : Grace, the door. Close the door
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 253/259 [OK] ===
+RAW    : I make door. You close door. 
+OUTPUT : I make door. You close door
+INPUT  : Oh yeah. Okay. Why? I thought this was a safe neighbourhood.
+
+=== 254/259 [unmatched] ===
+RAW    : Yes. 
+OUTPUT : Yes
+INPUT  : 
+
+=== 255/259 [OK] ===
+RAW    : I ask Adrian to work on this.
+OUTPUT : I ask Adrian to work on this
+INPUT  : It’s amazing, just that you’ve done it at all. …Very cold. And before, it was boiling. Is there an in-between?
+
+=== 256/259 [OK] ===
+RAW    : You no want sunnier than this?
+OUTPUT : You no want sunnier than this?
+INPUT  : Please tell the biodome illumination team that it’s perfect now.
+
+=== 257/259 [OK] ===
+RAW    : Grace.
+OUTPUT : Grace
+INPUT  : Oh, no. This is…you know I’m a sucker for the fog.
+
+=== 258/259 [OK] ===
+RAW    : Eridian scientists are ready...to prepare Hail Mary for journey home.
+OUTPUT : Eridian scientists are ready...to prepare Hail Mary for journey home
+INPUT  : Yeah pal?
+
+=== 259/259 [OK] ===
+RAW    : Yes, think about it long time.
+OUTPUT : Yes, think about it long time
+INPUT  : Can I think about it?
+
