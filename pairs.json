@@ -1,25 +1,5 @@
 [
   {
-    "input": "A few minutes pass, then I hear it again. “What’s two plus two?” The soft, feminine voice lacks emotion and the pronunciation is identical to the previous time she said it. It’s a computer. A computer is hassling me. I’m even more irritated now.",
-    "output": "One."
-  },
-  {
-    "input": "“What’s two plus two?” The soft, feminine voice lacks emotion and the pronunciation is identical to the previous time she said it. It’s a computer. A computer is hassling me. I’m even more irritated now. “Lrmln,” I say. I’m surprised. I meant to say “Leave me alone”—a completely reasonable response in my opinion—but I failed to speak.",
-    "output": "Two"
-  },
-  {
-    "input": "“Hlllch?” I say. “Incorrect. What’s two plus two?” What’s going on? I want to find out, but I don’t have much to work with. I can’t see. I can’t hear anything other than the computer. I can’t even feel. No, that’s not true. I feel something. I’m lying down. I’m on something soft. A bed.",
-    "output": "Yes."
-  },
-  {
-    "input": "“Hlllch?” I say. “Incorrect. What’s two plus two?” What’s going on? I want to find out, but I don’t have much to work with. I can’t see. I can’t hear anything other than the computer. I can’t even feel. No, that’s not true. I feel something. I’m lying down. I’m on something soft. A bed.",
-    "output": "No."
-  },
-  {
-    "input": "“What’s your name?” the computer asks. I look down at my sheet toga. “I am the great philosopher Pendulus!” “Incorrect.”",
-    "output": "Four."
-  },
-  {
     "input": "My computer pops up the text: You come from where, question? Rocky has picked up the basic word ordering of English. I think he realized early on that I can’t automatically remember stuff, so he works with my system rather than trying to teach me his. I probably seem pretty stupid, honestly. But some of his own grammar sneaks in once in a while. He always ends a question with the word “question.” “No understand,” I say.",
     "output": "You star is what name, question?"
   },
