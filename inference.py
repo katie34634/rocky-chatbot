@@ -34,7 +34,7 @@ def respond(prompt, tokenizer, model, device, max_length=128):
             max_length=max_length,
             num_beams=4,
             early_stopping=True,
-            no_repeat_ngram_size=3,
+            no_repeat_ngram_size=2,
         )
 
     return tokenizer.decode(outputs[0], skip_special_tokens=True)

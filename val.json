@@ -1,326 +1,318 @@
 [
   {
-    "input_text": "question: Well that’s weird.",
-    "target_text": "Woah, woah, woah, w-what? What’s happening?"
+    "input_text": "question: “This is a lot of things,” I say. “Yes yes,” he says. “I need these things.” “A lot of things.”",
+    "target_text": "Yes yes. Understand. Things in tunnel is last things."
   },
   {
-    "input_text": "question: There you go.",
-    "target_text": "Is good!"
+    "input_text": "question: Yep. Trays are live looking both ways.",
+    "target_text": "It is time go"
   },
   {
-    "input_text": "question: “How much can you make? How much of those liquids did you bring?” “I bring much. I use to make my zone.” I bring up a spreadsheet and start typing in numbers. “We need 0.4 cubic meters of xenonite. Can you make that much?”",
-    "target_text": "Yes Have enough liquids remain to make 0.61 cubic meters."
+    "input_text": "question: What? He tells me what to do, he tells me why to do it, he tells me how to do it, he tells me when to do it, and then when I do it, he’s like, “what are you doing?” I’m just saying you’re gonna get out of the ball and get into a much bigger ball?",
+    "target_text": "Yes, for sleeping"
   },
   {
-    "input_text": "question: “Yes,” I say. “Come to the control room.” “Yes.” I hear him skitter through his tunnel. I climb up and it’s just as dark. The entire control room is dead. The monitors are off. Even the airlock window provides no relief—that part of the ship happens to be facing away from Tau Ceti at the moment.",
-    "target_text": "Control room also have no light, question?"
+    "input_text": "question: I snicker. “New word: ‘sarcasm.’ You say opposite of true meaning to make point. Sarcasm.” He chimes the word for “sarcasm” in his language. Between exhaustion and drugs, I sleep like a baby. I wake up feeling a million times better, but my burns feel a million times worse. I look at the bandages. They’re new.",
+    "target_text": "You are awake, question?"
   },
   {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "Hello Earth! Plan is like fishing. We get very close to Adrian atmosphere, and lower collector into clouds with chain, then Grace go on hull to reel it in. If ship not at precise angle and speed, we die! Example!"
+    "input_text": "question: “Yeah,” I say. “Good theory.” “Thank.” I get back across the space rope bridge that is the cabling, then inside the airlock without incident. Rocky waits for me in his ceiling bulb in the control room.",
+    "target_text": "All is well, question?"
   },
   {
-    "input_text": "question: “First I need to find it,” I say. Rocky slumps. “You not know where you ship parts are, question?!” “The computer has all that information! I can’t remember all that!”",
-    "target_text": "Human brain useless!"
-  },
-  {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "No, is bad. Grace Rocky dead. All Rocky plural, all"
-  },
-  {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "Oh! Grace! Grace!"
-  },
-  {
-    "input_text": "question: “Diseases change. Antibiotics kill almost all the disease in the body, but some survive. By using antibiotics, humans are accidentally teaching diseases how to survive those antibiotics.” “Ah!” Rocky says. He raises his carapace a tad. “Disease evolves defense against chemical that kills it.” “Yes,” I say. I point at the tank. “Now think of Taumoeba as disease. Think of nitrogen as antibiotic.”",
-    "target_text": "Understand! Make environment barely deadly. Breed Taumoeba that survive. Make more deadly. Breed survivors. Repeat, repeat, repeat!"
-  },
-  {
-    "input_text": "question: A hug.",
-    "target_text": "Oh! Mm"
-  },
-  {
-    "input_text": "question: I check the Nav console. Our velocity is good. We’re in a stable orbit around Adrian. Well, actually it’s ugly as heck—the apogee is 2,000 kilometers farther from the planet than perigee. But it’s an orbit, darn it. And it’s stable. I check the Spin Drive panel again. All three drives are at zero. No thrust at all. I delve into the diagnostics screen and confirm that each of the 1,009 revolver triangles spread throughout the three drives is stationary. They are. I let my arm fall again. It does the same strange movement. Down and to the left.",
-    "target_text": "Adrian gravity, question?"
-  },
-  {
-    "input_text": "question: “I’m going back into those two, scraping them down some more, and I’ll sterilize them again. I’ll leave the other five sealed for now.” “Good plan. Do not forget to purge fuel lines.” With all the tanks infected, it’s safe to assume the fuel lines (currently sealed off) will also be infected. “Yes. They’ll be easier than the tanks. I just need to blow high-pressure nitrogen through them. It’ll clean out the chunks and sterilize the rest. Then I’ll test them the same as the fuel bays.”",
-    "target_text": "Good good. What is status of breeder tanks, question?"
-  },
-  {
-    "input_text": "question: Gravity’s tearing the ship apart!",
-    "target_text": "We leave now, question?"
-  },
-  {
-    "input_text": "question: When it comes to Astrophage manufacturing, Erid was born on third base. The whole planet is a pressure cooker. Twenty-nine atmospheres at 210 degrees Celsius means water is liquid on the surface. And their oceans are far, far hotter than the Astrophage critical temperature. They just put Astrophage in the water, let it absorb heat, and breed. I’m jealous. We had to pave the Sahara Desert to breed up our Astrophage. All they had to do was throw it in the water. The stored heat energy of Erid’s oceans is ridiculous. A whole bunch of water—multiples of Earth’s total oceans—holding a temperature around 200 degrees Celsius or more. That’s a lot of energy. And that’s why they can take a century or so to solve the problem while Earth is going to freeze in a few decades. It’s not just their air storing heat. Their oceans store even more. Born on third base. Again.",
-    "target_text": "Science Eridians design ship and fuel requirements. Journey to take 6.64 years."
-  },
-  {
-    "input_text": "question: “How long do Eridians sleep?” “I not know.” “You don’t know? You’re Eridian. How can you not know how long Eridians sleep?”",
-    "target_text": "Eridians not know how long sleep last. Maybe short time. Maybe long time."
-  },
-  {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "Abort, abort, abort! Grace will die! No no no no no no no no!"
+    "input_text": "question: It slipped my mind.",
+    "target_text": "No. Grace say Grace go home"
   },
   {
     "input_text": "question: Speaking of Erid, Rocky’s calibrating some kind of device in his control-room bubble. It looks almost like a gun. I don’t think we’ve started a space war, so I assume it’s something else. He holds the device with one hand, taps it with another, and uses two more to hold a rectangular panel that is connected to the device by a short cable. He uses his remaining hand to anchor himself at a handhold. He makes some more adjustments to the device with what looks like a screwdriver, and suddenly the panel springs to life. It was completely flat, but now has a texture to it. He waves the gun part left and right and the patterns on the screen move left and right.",
     "target_text": "Success! It functions!"
   },
   {
-    "input_text": "question: Oh yeah. Okay. Why? I thought this was a safe neighbourhood.",
-    "target_text": "I make door. You close door"
-  },
-  {
-    "input_text": "question: “Huh.” He clatters back and forth as he talks. “Then more strange: Reach halfway point earlier than should. Much earlier. I turn ship around. Thrust to slow down. But Tau get farther away. How? Still moving toward Tau but Tau moving away. Much confusion.” “Uh-oh,” I say. A thought creeps into my head. A very disturbing thought.",
-    "target_text": "I speed up. Slow down. Much confuse. But get here. Even with all mistakes and confusion, I get here in three years. Half of time science Eridian say should be. So much confuse."
-  },
-  {
-    "input_text": "question: “Well, how do I do it? I don’t understand xenonite.” He made a turning motion with two of his arms. “Rotate tunnel.” “Okay, okay.” I grab my EVA suit. “I’ll do it. Jerk.”",
-    "target_text": "No understand last word."
-  },
-  {
-    "input_text": "question: “Okay, here goes.” I put the centrifuge into manual mode and bypass three warning dialogs. First, I rotate the crew compartment 180 degrees. Just like last time, I take it slow. But unlike last time, I have everything battened down. So as the world turns around and gravity changes directions, the lab and dormitory aren’t thrown into disarray. Now I feel half a g pushing me toward the control panels. The nose is facing away from the rest of the ship again. I order all four spools to spool in without regard to ship rotation rate. The icons on the ship show the contraction as ordered and the force of my body into the restraints increases. After just ten seconds, the forces are at 6 g’s and I can barely breathe. I gasp and squirm.",
-    "target_text": "You are not healthy! Undo this. We make new plan."
-  },
-  {
-    "input_text": "question: “Wow,” I say. “You weigh a lot more than me.” “What is you mass, question?” “Maybe eighty kilograms.”",
-    "target_text": "Humans have very small mass!"
-  },
-  {
-    "input_text": "question: “The engines are heating up Adrian’s air a lot,” I say. “How you know, question?” “Sometimes I can see heat.”",
-    "target_text": "What, question?! Why you no tell me this, question?"
-  },
-  {
-    "input_text": "question: It’s not all bad, though. We have some slight attitude control by deciding how much each engine thrusts. It’s how Rocky zeroed out our rotation before. “It’s worth the risk.” He skitters back up the tunnel to face me. “Ship will rotate off-axis. No can unspool centrifuge cables. Would tangle.” “We’ll create the needed rotation first, then shut off beetles, then unspool cables.”",
-    "target_text": "If ship not unspooled, force is too much for human."
-  },
-  {
-    "input_text": "question: “I measure total heat energy output of both samples.” It’s a surefire way to know how much Astrophage you’re dealing with. Each one insists on being 96.415 degrees Celsius. The more of them there are, the more total heat will be absorbed by the metal plate I put them on. He taps two claws together. “That is good method. Population must be same. How, question?” “I don’t know.” I smear some of the “returning” Astrophage (that is, the Astrophage that was on the way from Adrian to Tau Ceti) onto a slide. I take it to a microscope.",
-    "target_text": "That is what, question?"
-  },
-  {
-    "input_text": "question: “I don’t know.” I smear some of the “returning” Astrophage (that is, the Astrophage that was on the way from Adrian to Tau Ceti) onto a slide. I take it to a microscope. Rocky scampers along his tunnel to keep up. “That is what, question?” “Microscope,” I say. “It helps me see very small things. I can see Astrophage with this.”",
-    "target_text": "Amaze."
-  },
-  {
-    "input_text": "question: “Yeah, very unexpected!” I say. “I repeated experiment with Threeworld’s air. Carbon dioxide only: The Taumoeba were fine. I added in the sulfur dioxide: The Taumoeba were fine. I added the nitrogen: Boom! All the Taumoeba died.” He taps a claw absently on the tunnel wall. “Very very unexpected. Nitrogen harmless to Erid life. Nitrogen required by many Erid life.” “Same with Earth,” I say. “Earth’s air is seventy-eight percent nitrogen.”",
-    "target_text": "Confusing"
-  },
-  {
-    "input_text": "question: “I’m not going to melt a bunch of stuff. How would I even do that?” “Astrophage. Melt anything.” “You got me there,” I say. “But no. The heat would be too much for my life-support system to handle. That reminds me. Why do you have so much extra Astrophage?”",
-    "target_text": "Strange story."
-  },
-  {
-    "input_text": "question: “I am, I am,” I say. “But we need to get to 8 percent so it can survive on Threeworld. Until then, we’re not done.”",
-    "target_text": "Yes yes yes. But this is moment. Important moment."
-  },
-  {
-    "input_text": "question: I type away on the calculator app, then shake my head. “It’s no good. The ship would get less than 800 meters per second velocity. We can’t escape Adrian’s gravity with that, let alone cross 150 million kilometers of the Tau Ceti system.” “Bad.” I drop the tablet on the table and rub my eyes. “Yes. Bad.”",
-    "target_text": "Give me generator."
-  },
-  {
-    "input_text": "question: They don’t “sleep” like a human does. They’re legitimately paralyzed. And the brain, also being maintained, has no conscious function during that period. A sleeping Eridian can’t wake up. That’s why they keep an eye on each other when they sleep. Someone has to keep you safe. Probably dates back to caveman (cave-Eridian?) days, and now it’s just a social norm. As amazed as I am at all that, to Rocky it’s a boring topic. Meanwhile, he’s utterly shocked and amazed by humanity.",
-    "target_text": "You hear light, question?"
-  },
-  {
-    "input_text": "question: The Life Support panel blinks its warning again. I mute it again. Astrophage lives on stars. I’m sure a little reflected IR light won’t be too much heat for it to handle.",
-    "target_text": "Spool Twelve away… Sampler signal good. Sampler detecting air now."
-  },
-  {
-    "input_text": "question: I unclip the fastener on the straw. “No, it’s just a thing humans say. I am honoring Taumoeba-82.5.” I take a sip. It’s like fire in my mouth. Ilyukhina apparently liked her vodka strong and rough. “Yes. Much honoring!” he says. “Human and Eridian work together, save everyone!” “Ah!” I say. “That reminds me: I need a life-support system for Taumoeba—something that feeds them just enough Astrophage to keep the colony alive. It has to be completely automatic, has to work on its own for several years, and it has to weigh less than a kilogram. I need four of them.”",
-    "target_text": "Why so small, question?"
-  },
-  {
-    "input_text": "question: “It should,” I say. I fire up the mill and it gets right to work. It drills out the mold for a chain link exactly the way I’d hoped. I pull the workpiece out, dust off the aluminum shavings, and hold it up to the tunnel. “How’s this?”",
-    "target_text": "Very good! We will need many many many chain links. More molds means I can make more at one time. You can make many molds, question?"
-  },
-  {
-    "input_text": "question: “Your ship accelerates faster than mine. You’ll be moving closer to the speed of light.” He wiggles his carapace. “So complicated.” I point toward his ship. “All the information about relativity is in the laptop. Have your scientists take a look.”",
-    "target_text": "Yes. They will be very pleased."
-  },
-  {
-    "input_text": "question: Called a fist bump, by the way. What’s that? Fist my bump? No. It’s fist bump.",
-    "target_text": "Is same"
-  },
-  {
-    "input_text": "question: Well that’s weird.",
-    "target_text": "What problem, question?"
-  },
-  {
-    "input_text": "question: And that’s why they can take a century or so to solve the problem while Earth is going to freeze in a few decades. It’s not just their air storing heat. Their oceans store even more. Born on third base. Again. “Science Eridians design ship and fuel requirements. Journey to take 6.64 years.” That trips me up for a moment. 40 Eridani is ten light-years away from Tau Ceti, so you can’t get from one to the other in less than ten years from Erid’s point of view. He must mean 6.64 years of time experienced by his ship thanks to time dilation.",
-    "target_text": "Strange things happen on trip. Crew sick. Die. Now I know was radiation."
-  },
-  {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "But Grace won’t feel comfortable and safe"
-  },
-  {
-    "input_text": "question: “Yeah. I’m going to miss you.” I take another swig of vodka. “You’re my friend. Heck, you’re my best friend. And pretty soon we’re going to say goodbye forever.” He tapped two gloved claws together. They made a muffled sound instead of the usual click that comes along with the dismissive gesture. “Not forever. We save planets. Then we have Astrophage technology. Visit each other.” I give a wry grin. “Can we do all that within fifty Earth years?”",
-    "target_text": "Probably not. Why so fast, question?"
-  },
-  {
-    "input_text": "question: “Agreed,” I say. “But how do we get a sample?” “How close can orbit get, question?” “One hundred kilometers from the planet. Any closer and the ship will burn up in the atmosphere.”",
-    "target_text": "This is unfortunate Eight point eight kilometers away from breeding zone. No can get closer, question?"
-  },
-  {
-    "input_text": "question: I sit on the lab stool and cross my arms. “Venus’s air is 3.5 percent nitrogen. Same problem.” He sinks farther and his voice drops an octave. “Hopeless. Cannot change Threeworld air. Cannot change Venus air. Cannot change Taumoeba. Hopeless.” “Well,” I say. “We can’t change Threeworld or Venus’s air. But maybe we can change Taumoeba.”",
-    "target_text": "How, question?"
-  },
-  {
-    "input_text": "question: You’re pointing it at me again. But his species doesn’t know about things like relativity and radiation. And the rest of the crew?",
-    "target_text": "In mid of ship. There"
-  },
-  {
-    "input_text": "question: “I only have fifty years or so left to live. Humans don’t”—I hiccup—“don’t live long, remember?” “Oh.” He’s quiet for a moment. “So we enjoy remaining time together, then go save planets. Then we are heroes!” “Yeah!” I straighten up. I’m a little dizzy now. I’ve never been much of a drinker, and I’m hitting this vodka harder than I should. “We’re the moss imporn’t people in the gal’xy! We’re awesome!”",
-    "target_text": "To us!"
-  },
-  {
-    "input_text": "question: “Yes. I’ll do that,” I say. “I want a gift from you too: xenonite. Solid form and liquid pre-xenonite form. Earth scientists will want that.” “Yes, I give.” I yawn. “I’m going to sleep soon.”",
-    "target_text": "I watch."
-  },
-  {
-    "input_text": "question: “I still have two million kilograms of Astrophage. Bring your stuff aboard. We’re going to Erid.” “Happy! Happy happy happy!” He pauses. “Need to make nitrogen wash. Make sure no Taumoeba-82.5 get into Hail Mary.” “Yes. I have full faith in your abilities. Make a sterilizer.”",
-    "target_text": "What about Earth, question?"
-  },
-  {
-    "input_text": "question: It’s obvious now that he points it out. Voices, instruments, birdcalls, whatever—they can all be wildly different sounds. But the sound of objects colliding isn’t going to have much variance from planet to planet. If I bang two rocks together on Earth, they’re going to make the same noise as if I bang them together on Erid. So we’re all selected-for by being able to hear it. “Better question,” he says. “Why we think same speed, question?” I shift over to lie on my side. “We don’t think at the same speed. You do math way faster than I can. And you can remember things perfectly. Humans can’t do that. Eridians are smarter.”",
-    "target_text": "Math is not thinking. Math is procedure. Memory is not thinking. Memory is storage. Thinking is thinking. Problem, solution. You and me think same speed. Why, question?"
-  },
-  {
-    "input_text": "question: I clip a tether to a convenient hole on the unit (presumably put there for this exact use), and pull the lever over to the open position. The sampler floats free of the hull. I work my way back across the hull to the airlock with the sampler in tow. I cycle my way back in and climb out of the suit.",
-    "target_text": "All is good, question?"
-  },
-  {
-    "input_text": "question: “Thank.” I release my restraints and stretch out. Nothing seems to be broken or wounded other than my burned arm from before. It actually feels great to be back in zero g. I’m achy everywhere as a rule. Lots of physical labor and I’m still recovering from injuries. Getting that pesky gravity out of the way puts less stress on my body. I cycle through screens on the monitor. “All systems are okay. At least, nothing’s damaged further than before.”",
-    "target_text": "Good. What is next action, question?"
-  },
-  {
-    "input_text": "question: “What? There’s no room below—oh.” He can sense the whole ship with his echolocation. Not just the habitable area. So when he says “big room below the dormitory,” he means the fuel tanks. Oh dear.",
-    "target_text": "Turn off engines, question?"
-  },
-  {
-    "input_text": "question: I raise my eyebrows. “You’re coming into my ship?” “Want to see human technology. Is allowed, question?” “Yes! Allowed! What do you want to see?”",
-    "target_text": "Everything! Human science better than Eridian science. Machine that think. Eridians no have that. Many machines there Eridians no have."
-  },
-  {
-    "input_text": "question: I shake my head. “Adrian air temperature shouldn’t matter. The predator has to be able to handle Astrophage temperature.” “Ah. Yes. You are right.” “Maybe the predator theory is wrong,” I say.",
-    "target_text": "Predators is only explanation. Maybe predators no live in Petrova line. Maybe predators live further down in atmosphere."
-  },
-  {
-    "input_text": "question: “Wait. I have more. Much more.” He stops. “More, question? Good.” I lean against my lab table and pat the tank. “I made Venus in the tank. But not quite Venus. Venus’s air is 96.5 percent carbon dioxide and 3.5 percent nitrogen. I started with just the carbon dioxide. The Taumoeba were fine. Then I added the nitrogen. And the Taumoeba all died.”",
-    "target_text": "All die, question? Sudden, question?"
-  },
-  {
-    "input_text": "question: “You don’t have enough xenonite for that!” “Don’t need xenonite. Any strong material will do. Have much metal aboard my ship. Melt, shape, make tank for you.” I blink a couple of times. “You can do that?”",
-    "target_text": "Obvious I can do that! You are stupid right now. You sleep. I watch and also design replacement tank. Agree, question?"
-  },
-  {
-    "input_text": "question: Sol—Earth’s sun—has returned to its pre-Astrophage brightness. There’s only one possible way that happens: Astrophage is gone. Or at least reduced in population so much that it doesn’t matter. We won. We did it!",
-    "target_text": "Hey, your face is leaking! I haven’t seen that in a long-ass time! Remind me—does that mean you’re happy or sad? ’Cause it can mean either one, right?"
-  },
-  {
-    "input_text": "question: “My hand’s busy with the wrench.” “Use second hand.” “My other hand’s on the hull to keep me steady.”",
-    "target_text": "Use third han—hmm. Get beetles. I make new screws."
-  },
-  {
-    "input_text": "question: “How?” “Use hand.” “My hand’s busy with the wrench.”",
-    "target_text": "Use second hand."
-  },
-  {
-    "input_text": "question: “No. I need power to do anything.” “Then, most important: How long until orbit decays, question?” I blink a couple of times. “I…don’t know.”",
-    "target_text": "Work fast."
-  },
-  {
-    "input_text": "question: Why are you alone?",
-    "target_text": "Was twenty-three Eridians on ship. Now only one"
-  },
-  {
-    "input_text": "question: He also put a large airlock in the dormitory. He based it on the size of the Hail Mary’s airlock on the assumption that anything important in the ship would likely be small enough to fit through that. I can’t ever go into his zone. My EVA suit would never stand up to his environment. I’d get squished like a grape. The airlock is really so we can pass items back and forth. The lab is mostly mine. He has a tunnel leading up the side and another teeing off to run along the ceiling and ultimately through the ceiling into the control room. He can observe any of the scientific stuff I do. But in the end, Earth equipment wouldn’t work in his environment, so it has to be in mine. As for the control room…it’s tight. Rocky put the xenonite bulb in the floor next to the hatchway. He really did try to keep the intrusion to a minimum. He assures me the holes he added to my bulkheads won’t affect the ship’s structural integrity.",
-    "target_text": "Okay Name is ♫♩♪♫."
-  },
-  {
-    "input_text": "question: Oh, no. This is…you know I’m a sucker for the fog.",
-    "target_text": "Grace is safe, question?"
-  },
-  {
-    "input_text": "question: “Yes.” I rub my eyes. Wow. The Blip-A had a crew of twenty-three. Rocky is the sole survivor and he’s understandably upset about it. “Wh…er…” I stammer. “Bad.”",
-    "target_text": "Bad bad bad."
-  },
-  {
-    "input_text": "question: I scrape a particularly stubborn crust of gunk off the wall. It floats away and I use the scraper to bat it out the hole. “Status on breeder tanks?” I ask. “Tank Four still have live Taumoeba. Tank Five and higher all dead.” I shuffle forward in the tank. It’s narrow enough that I can hold position by putting both boots on one side of the cylinder and a hand on the opposing side. This leaves my remaining hand free to scrape sludge. “Tank Four was 5.25 percent, right?”",
-    "target_text": "Not right. Five point two zero percent."
-  },
-  {
-    "input_text": "question: “I not have word for this.” Of course the Eridian language has no words for colors. Why would it? I never thought of colors as a mysterious thing. But if you’ve never heard of them before, I guess they’re pretty weird. We have names for frequency ranges in the electromagnetic spectrum. Then again, my students all have eyes and they were still amazed when I told them “x-rays,” “microwaves,” “Wi-Fi,” and “purple” were all just wavelengths of light. “You name it then,” I say.",
-    "target_text": "Yes yes. I name this color: middle-rough. My display pattern is smooth for high-frequency light. Rough for low-frequency light. This color is middle-rough."
-  },
-  {
-    "input_text": "question: “Yes,” I say, with no way to know if I’m telling the truth. There’s no reason for Rocky to know I only vaguely understand the operation of my own ship. I flip through the science instruments until I land on the controls for the External Collection Unit. I look at the diagram on the screen. It’s simple enough. The sampler is a rectangular box. When activated, it will pivot up to be perpendicular to the hull. Then, doors on both sides of the rectangle will open up. Inside, there’s a bunch of sticky resin—ready to catch anything that flies in. That’s it. Flypaper. Fancy space flypaper, but just flypaper.",
-    "target_text": "After collection, how sample enter ship, question?"
-  },
-  {
-    "input_text": "question: “♫♪♫,” he says quickly. Now we have “camera” in our vocabulary. “It analyze light and show as texture.” “Oh, and you can sense that texture?” I say. “Cool.”",
-    "target_text": "Thank. What are wavelengths of light humans can see, question?"
-  },
-  {
-    "input_text": "question: I push him along into the dormitory. I give us a very slow velocity so he can take it all in from the center of the room. “I sleep here. Well, I used to. Then you made me sleep in the tunnel.” “You sleep alone, question?” “Yes.”",
-    "target_text": "I also sleep alone many times. Sad sad sad."
-  },
-  {
-    "input_text": "question: “Fix.” I say. “You fix.” “♫♪♫♪,” he says. I add “fix” to the dictionary. I suspect it’ll come up a lot.",
-    "target_text": "Sleep."
-  },
-  {
-    "input_text": "question: He’s aboard the Blip-A somewhere, but I know he can hear me. He can always hear me. After a few seconds, the radio crackles to life. “What, question?” “Two fuel bays still have Taumoeba.”",
-    "target_text": "Understand. Not good. But not bad. Other five are clean, question?"
-  },
-  {
-    "input_text": "question: “Dr. Grace,” she said. “Dr. Lokken,” I said. We sat across from each other at a small steel table. It was a tiny room, but spacious by aircraft-carrier standards. I didn’t quite understand its original purpose and its name was written in Chinese characters. But I think it was a place for the navigator to look at charts…?",
-    "target_text": "Thank Now I know how my friends died."
-  },
-  {
-    "input_text": "question: Nope. I say neither you say:",
-    "target_text": "Ne-i-ther"
-  },
-  {
-    "input_text": "question: “What is it?” “Device keeps me alive in small room.” He looks happy. I think. He’s holding his carapace just a little higher than usual. “Wait.” He disappears back into his ship, leaving the device behind. He returns with several plates of transparent xenonite. Each plate is a pentagon about a centimeter thick and a foot across. I hate myself for thinking in hybrid units like that. But that’s what my brain came up with.",
-    "target_text": "I make room now"
-  },
-  {
-    "input_text": "question: Yes.",
-    "target_text": "Oh okay. Now over there"
-  },
-  {
-    "input_text": "question: “What about twenty-six?”",
-    "target_text": "Ball is twenty-six."
-  },
-  {
-    "input_text": "question: Between exhaustion and drugs, I sleep like a baby. I wake up feeling a million times better, but my burns feel a million times worse. I look at the bandages. They’re new. Rocky is at his workbench, tinkering with his tools. He’s cleaned up his area. It looks good as new. “You are awake, question?” “Yeah,” I say. “How are you feeling? Are you healing?”",
-    "target_text": "Much more heal needed. But some heal complete. Cannot move much."
-  },
-  {
-    "input_text": "question: “Humans are amaze. You leave ship.” “Yeah, I guess.” Eridians never bothered to invent spacesuits. Why would they? Space is devoid of sensory input to them. It would be like a human with scuba gear diving into an ocean of black paint. There’s just no reason to do it. Eridians use hull robots for EVA work. The Hail Mary doesn’t have one of those, so any EVA work has to be done by me.",
-    "target_text": "Amaze is wrong word Amaze is compliment. Better word is ♫♪♫♪."
+    "input_text": "question: All ten tanks are breeding Taumoeba-06 (named for the nitrogen percent it can withstand). Tank One is the control, as always. It has 0.6 percent nitrogen in the air. Taumoeba-06 should have no problem in there. If it does, it means there was a mistake in the previous batch and I have to go back to an earlier strain. Tank Two has 0.65 percent nitrogen. Tank Three has 0.7. And so on all the way up to Tank Ten with 1.05 percent. The heartiest survivors will be the champions, and will move on to the next round. I wait a few hours just to make sure they can breed for at least two generations. Taumoeba has a ridiculously fast doubling time. Fast enough to eat all my fuel in a matter of days, as it happens. If we get to Venus or Threeworld nitrogen percentages, I’ll do much more thorough testing.",
+    "target_text": "Flash is soon"
   },
   {
     "input_text": "question: “Screens flash many colors!” he yells over the din. He points his camera here and there, watching the feed on his textured screen. A metallic groan screams from somewhere down below. Something is bending and doesn’t want to. I think it’s the hull. I get in the control seat. No time to strap in. “Where’s that noise coming from?”",
     "target_text": "All around But loudest at starboard dormitory wall segment. It bending inward."
   },
   {
-    "input_text": "question: Not died, just laying here for 29,000 seconds and then we…wake up.",
-    "target_text": "Ohh, understand. We call this"
+    "input_text": "question: I cycle the airlock, climb out of the Orlan, and enter the control room. Rocky is in his bulb waiting for me. “It went well, question?” I wiggle my hand back and forth—a gesture interestingly common to both humans and Eridians and with the same meaning. “Maybe. I’m not sure. A bunch of the bolt holes were unusable. So the bays aren’t connected as well as they should be.”",
+    "target_text": "Danger, question? Your ship accelerate at 15 meters per second per second. Will tanks hold, question?"
   },
   {
-    "input_text": "question: “I…I don’t know. I’m getting old and the trip is long.” “Speaking from a selfish perspective, I hope you stay. But that’s just me.” “Rocky…that news about Sol…it…it makes my whole life have meaning. You know? I still can’t…I can’t…” I start sobbing again.",
-    "target_text": "Yeah, I know. That’s why I wanted to be the one to tell you."
+    "input_text": "question: “I don’t understand. Speak louder.” “Sick…” he mumbles. “Yeah, you’re sick. You came into my air. Of course you’re sick! You almost died!”",
+    "target_text": "How I return here, question?"
   },
   {
-    "input_text": "question: “Yeah,” I say. “Well, it’s just my ten breeder tanks. But now I have them all set up with Venus’s atmosphere. Oh, and thanks for the mini-farms, by the way. I’ll install them in the beetles during my trip. I won’t have much else to do.” He glances at a notepad. “These numbers you gave me. You are certain these are the times for me to turn around and the times for me to reach Erid, question? They are so soon. So fast.” “Yeah, that’s time dilation for you. Weird stuff. But those are the correct values. I checked them four times. You’ll reach Erid in under three Earth years.”",
-    "target_text": "But Earth is almost same distance from Tau Ceti, and you will take four years, question?"
+    "input_text": "question: “Then give it a name.” “Me name? No. You name.” “You were here first.” I unclip my seatbelts and stretch out. “You identified it. You plotted its orbit and location. You name it.”",
+    "target_text": "This is you ship. You name."
   },
   {
-    "input_text": "question: I slump my shoulders. “Why? What good would it do?” “I clean and sterilize. Remove all Taumoeba. I make tiny fuel tank with my Astrophage. Seal generator airtight. Give back to you. You hook up to ship. Power restored.” I rub my aching arm. “Yeah. It’s a good idea. If the generator doesn’t melt in your air.”",
-    "target_text": "If melt, I fix."
+    "input_text": "question: “Fix.” I say. “You fix.” “♫♪♫♪,” he says. I add “fix” to the dictionary. I suspect it’ll come up a lot.",
+    "target_text": "Sleep."
+  },
+  {
+    "input_text": "question: “Yeah,” I say. “And I know where you’re going with this.” “Do you?” “Yeah.” I shift my weight from one leg to the other. Arthritis is starting to settle in my joints. High gravity isn’t great for humans. “There are fewer than fifty stars as close to Tau Ceti as we are. But two of them ended up with life. It means life—at least, the life Tau Ceti puts out—might be a lot more common in our galaxy than we think.”",
+    "target_text": "Think we’ll find more of them? Intelligent species?"
+  },
+  {
+    "input_text": "question: “Wow. You don’t do anything by half-measure, do you?” “No understand.” “I’m not going to melt a bunch of stuff. How would I even do that?”",
+    "target_text": "Astrophage. Melt anything."
+  },
+  {
+    "input_text": "question: “My hand’s busy with the wrench.” “Use second hand.” “My other hand’s on the hull to keep me steady.”",
+    "target_text": "Use third han—hmm. Get beetles. I make new screws."
+  },
+  {
+    "input_text": "question: “No oxygen.” “Oxygen dangerous.” He’s been a little edgy since his internal organs caught fire. “I breathe oxygen. It’s okay.”",
+    "target_text": "Can explode."
+  },
+  {
+    "input_text": "question: “I succeeded,” I say. “My ship isn’t made of xenonite.” “What happen, question?” I sigh. “The Taumoeba evolved to resist nitrogen. But it also evolved to get into xenonite to hide from nitrogen. The side effect is Taumoeba-82.5 can work its way through xenonite over time.”",
+    "target_text": "Amaze. Now what, question?"
+  },
+  {
+    "input_text": "question: “Oh! Wow. Why did it break off?” He wiggles his carapace. “Not know. Many things break. My people make ship very hurry. No time to make sure all things work good.” Deadline-induced quality issues: a problem all over the galaxy.",
+    "target_text": "I tried to make replacement. Failed. Tried. Failed. Tried. Failed. I put ship in path of Astrophage. Maybe some get stuck on hull. But robot on hull no can find any. Astrophage very small."
+  },
+  {
+    "input_text": "question: Oh, I—I got enough food here to last me at least a couple years, maybe a couple more if I stretch it out?",
+    "target_text": "So, Grace die, question?"
+  },
+  {
+    "input_text": "question: Fishing! Can you believe it? It could work.",
+    "target_text": "Thumbs up, baby"
+  },
+  {
+    "input_text": "question: Okay, here we go. Sleep. Goodnight, sir.",
+    "target_text": "I watch Grace sleep"
+  },
+  {
+    "input_text": "question: I zero the telescope and zoom in to confirm. The difference between background space and the ship is so small as to be barely perceivable. But it’s there. “Angle correct.” He focuses hard on his texture screen. “I no detect anything on-screen.” “Light difference is very very small. Need human eyes to detect. Angle is good.”",
+    "target_text": "Understand. What is range, question?"
+  },
+  {
+    "input_text": "question: “Failure,” I say. “Both experiments. The Taumoeba are all dead.”",
+    "target_text": "Anger!"
+  },
+  {
+    "input_text": "question: I perk up. “Maybe.” I look over to the lab monitor. I have it showing the external camera view of Adrian. Not for any scientific reason—just because it looks cool. Right this moment we’re about to cross the terminator into the day side of the planet. The light of orbital dawn glows along an arc. “Okay, let’s say the predator lives in the atmosphere. What altitude?”",
+    "target_text": "What altitude is best, question? If you predator, where you go, question? You go to Astrophage."
+  },
+  {
+    "input_text": "question: Rocky clicks along his tunnel to the control-room bulb. He goes in and out of the Blip-A so often now I often don’t know what ship he’s on. “You make angry sound. Why, question?” “I’m missing a third of my fuel bays. The trip home will take more time than I have food.”",
+    "target_text": "How long since last sleep, question?"
+  },
+  {
+    "input_text": "question: “Okay, here goes.” I put the centrifuge into manual mode and bypass three warning dialogs. First, I rotate the crew compartment 180 degrees. Just like last time, I take it slow. But unlike last time, I have everything battened down. So as the world turns around and gravity changes directions, the lab and dormitory aren’t thrown into disarray. Now I feel half a g pushing me toward the control panels. The nose is facing away from the rest of the ship again. I order all four spools to spool in without regard to ship rotation rate. The icons on the ship show the contraction as ordered and the force of my body into the restraints increases. After just ten seconds, the forces are at 6 g’s and I can barely breathe. I gasp and squirm.",
+    "target_text": "You are not healthy! Undo this. We make new plan."
+  },
+  {
+    "input_text": "question: It’s fine, it’s just—the sky is...slightly on fire.",
+    "target_text": "Words of encouragement"
+  },
+  {
+    "input_text": "question: And that’s why they can take a century or so to solve the problem while Earth is going to freeze in a few decades. It’s not just their air storing heat. Their oceans store even more. Born on third base. Again. “Science Eridians design ship and fuel requirements. Journey to take 6.64 years.” That trips me up for a moment. 40 Eridani is ten light-years away from Tau Ceti, so you can’t get from one to the other in less than ten years from Erid’s point of view. He must mean 6.64 years of time experienced by his ship thanks to time dilation.",
+    "target_text": "Strange things happen on trip. Crew sick. Die. Now I know was radiation."
+  },
+  {
+    "input_text": "question: They don’t “sleep” like a human does. They’re legitimately paralyzed. And the brain, also being maintained, has no conscious function during that period. A sleeping Eridian can’t wake up. That’s why they keep an eye on each other when they sleep. Someone has to keep you safe. Probably dates back to caveman (cave-Eridian?) days, and now it’s just a social norm. As amazed as I am at all that, to Rocky it’s a boring topic. Meanwhile, he’s utterly shocked and amazed by humanity.",
+    "target_text": "You hear light, question?"
+  },
+  {
+    "input_text": "question: “♫♪♫,” he says quickly. Now we have “camera” in our vocabulary. “It analyze light and show as texture.” “Oh, and you can sense that texture?” I say. “Cool.”",
+    "target_text": "Thank. What are wavelengths of light humans can see, question?"
+  },
+  {
+    "input_text": "question: We leave now, statement.",
+    "target_text": "Hull bending in big room below bedroom"
+  },
+  {
+    "input_text": "question: “Um…” I say. “Rocky, you can make screws, right?” “Yes. Easy. Why, question?” “I dropped one.”",
+    "target_text": "Hold screws better."
+  },
+  {
+    "input_text": "question: Rather than risk stupidly dropping the big orb, I grab the top remaining link of the chain and unhitch it from the winch. Now I have a ball and chain. I hang on to the chain for dear life and clip it to my belt. I still don’t let go. I’m not taking any chances with this. “Status, question?” “I have the sampler. Returning.”",
+    "target_text": "Amaze! Happy happy happy!"
+  },
+  {
+    "input_text": "question: Rock, would you just—give me a little—chance please to sleep a little?",
+    "target_text": "Did we...find predator?"
+  },
+  {
+    "input_text": "question: That’s it. Flypaper. Fancy space flypaper, but just flypaper. “After collection, how sample enter ship, question?” Simple doesn’t mean convenient. As far as I can tell, there’s no automated system to do anything with the sample. “I have to go get it.”",
+    "target_text": "Humans are amaze. You leave ship."
+  },
+  {
+    "input_text": "question: “Three…two…one…now!” Right on cue, a few pixels on-screen blink white. “Got it,” I say.",
+    "target_text": "I not notice."
+  },
+  {
+    "input_text": "question: The end result is that Astrophage come to rest when the air is 0.02 atmospheres thick. So, going forward, that’ll be our standard for pressure. Venus’s atmosphere is 0.02 atmospheres at around the 70 kilometer mark, and the temperature there is about minus 100 degrees Celsius (thanks, infinite supply of reference material!). So that’s the temperature I have the Venus analog experiment set to. Rocky’s temperature-control system works perfectly, of course, even down to ultra-low temperatures. “Good. Now Threeworld.” “What temperature is Threeworld’s air at the 0.02 atmosphere altitude?”",
+    "target_text": "Minus eighty-two degrees of Celsius."
+  },
+  {
+    "input_text": "question: “I’m not going to melt a bunch of stuff. How would I even do that?” “Astrophage. Melt anything.” “You got me there,” I say. “But no. The heat would be too much for my life-support system to handle. That reminds me. Why do you have so much extra Astrophage?”",
+    "target_text": "Strange story."
+  },
+  {
+    "input_text": "question: “Not expected,” he says. “Not expected,” I agree. One side of the sampler pointed toward Tau Ceti, while the other pointed toward Adrian. Astrophage migrate to breed. For every frisky Astrophage that heads to Adrian with a twinkle in its eye, two should return. So, broadly speaking, there should be twice as many Astrophage going from Adrian to Tau Ceti as there are going the other direction. But that’s not what’s happening. The outgoing population is the same as the incoming population.",
+    "target_text": "Flaw in counting, question? How you count, question?"
+  },
+  {
+    "input_text": "question: I guess he can see right through the bandages with his sonar. Must be pretty ugly under there. I kind of figured that would be the case, but now I know. “Yeah. But I’ll be fine.” “You damage self to save me. Thank.” “You did the same thing. Is your radiator organ okay? You were on fire and got full of soot and oxides.”",
+    "target_text": "It healing. This come from inside me, question?"
+  },
+  {
+    "input_text": "question: We figured out a plan, we’re gonna orbit the planet where Astrophage breeds, collect a sample, and figure out why it’s not eating Tau Ceti.",
+    "target_text": "Who is Grace talking to?"
+  },
+  {
+    "input_text": "question: I didn’t mean any of that. That’s just something you say. Thank you. Get over here.",
+    "target_text": "Woah, woah, woah, w-what? What’s happening?"
+  },
+  {
+    "input_text": "question: Oh boy. You know I used to have one of these in my classroom and it was a lot simpler to set up. One sec—what? What?",
+    "target_text": "Why is a school teacher in space, question?"
+  },
+  {
+    "input_text": "question: In here? And where did you keep the Astrophage?",
+    "target_text": "Fuel tanks next to Rocky workshop, there"
+  },
+  {
+    "input_text": "question: “Your ship accelerates faster than mine. You’ll be moving closer to the speed of light.” He wiggles his carapace. “So complicated.” I point toward his ship. “All the information about relativity is in the laptop. Have your scientists take a look.”",
+    "target_text": "Yes. They will be very pleased."
+  },
+  {
+    "input_text": "question: “Humans are amaze. You leave ship.” “Yeah, I guess.” Eridians never bothered to invent spacesuits. Why would they? Space is devoid of sensory input to them. It would be like a human with scuba gear diving into an ocean of black paint. There’s just no reason to do it. Eridians use hull robots for EVA work. The Hail Mary doesn’t have one of those, so any EVA work has to be done by me.",
+    "target_text": "Amaze is wrong word Amaze is compliment. Better word is ♫♪♫♪."
+  },
+  {
+    "input_text": "question: “I had the same question!” I say. “So I did a spectrograph of my fuel-bay sludge. There’s a bunch of CO2 gas dissolved into the liquid.” “Astrophage probably have carbon dioxide inside. Or decomposition creates carbon dioxide. Some percentage died in fuel tanks over time. Not all cells are perfect. Defects. Mutations. Some die. Those dead Astrophage put carbon dioxide in tanks.” “Agreed.”",
+    "target_text": "Good findings"
+  },
+  {
+    "input_text": "question: I switch to the Radar screen. Nothing. “Too far for my radar to see. At least ten thousand kilometers.” “Accelerate to what velocity, question?” “How about…three kilometers per second? Will get to the Blip-A in an hour or so.”",
+    "target_text": "Three thousand meters per second. Standard acceleration rate is acceptable, question?"
+  },
+  {
+    "input_text": "question: He also put a large airlock in the dormitory. He based it on the size of the Hail Mary’s airlock on the assumption that anything important in the ship would likely be small enough to fit through that. I can’t ever go into his zone. My EVA suit would never stand up to his environment. I’d get squished like a grape. The airlock is really so we can pass items back and forth. The lab is mostly mine. He has a tunnel leading up the side and another teeing off to run along the ceiling and ultimately through the ceiling into the control room. He can observe any of the scientific stuff I do. But in the end, Earth equipment wouldn’t work in his environment, so it has to be in mine. As for the control room…it’s tight. Rocky put the xenonite bulb in the floor next to the hatchway. He really did try to keep the intrusion to a minimum. He assures me the holes he added to my bulkheads won’t affect the ship’s structural integrity.",
+    "target_text": "Okay Name is ♫♩♪♫."
+  },
+  {
+    "input_text": "question: “I want to look at it first.”",
+    "target_text": "You bad at this. I fix."
+  },
+  {
+    "input_text": "question: “Wow,” I say. “You weigh a lot more than me.” “What is you mass, question?” “Maybe eighty kilograms.”",
+    "target_text": "Humans have very small mass!"
+  },
+  {
+    "input_text": "question: I perk up. “No?”",
+    "target_text": "No. Orbit decay soon. Then we die."
+  },
+  {
+    "input_text": "question: “The generator isn’t broken,” I say. “If there are Taumoeba in the generator, it means there are Taumoeba in the fuel supply. Taumoeba ate all the Astrophage. We have no power because we have no fuel.” Rocky raises his carapace so fast he clunks it against the roof of his tunnel. “How Taumoeba get into fuel, question?!” “There are Taumoeba in my lab. I didn’t keep them sealed off. I didn’t think to. Some probably got loose. The ship has a bunch of cracks, holes, and leaks ever since we almost died at Adrian. Some small hole in a fuel line somewhere must have let Taumoeba in. It only takes one.”",
+    "target_text": "Bad! Bad bad bad!"
+  },
+  {
+    "input_text": "question: That’s not bad.",
+    "target_text": "I like!"
+  },
+  {
+    "input_text": "question: “Yes,” I say. “Come to the control room.” “Yes.” I hear him skitter through his tunnel. I climb up and it’s just as dark. The entire control room is dead. The monitors are off. Even the airlock window provides no relief—that part of the ship happens to be facing away from Tau Ceti at the moment.",
+    "target_text": "Control room also have no light, question?"
+  },
+  {
+    "input_text": "question: “I’ll…umm…I’ll bring the lab’s control screen down there with me. I’ll run data and power extension cables from the lab to the storage room. Yeah. That should work.” “What if you unconscious and no can operate controls, question?” “Then you cancel the rotation and I’ll wake up.”",
+    "target_text": "No like. Alternate plan: Wait eleven days. Get to my ship. Clean out you ship fuel tanks. Sterilize—make sure no Taumoeba. Refill with fuel from my ship. Then can use all functions of you ship again."
+  },
+  {
+    "input_text": "question: “How long do Eridians sleep?” “I not know.” “You don’t know? You’re Eridian. How can you not know how long Eridians sleep?”",
+    "target_text": "Eridians not know how long sleep last. Maybe short time. Maybe long time."
+  },
+  {
+    "input_text": "question: I keep my hand on the control lever and my eyes on the chain. If that sampler gets to the winch, everything will go south. The sample container will be torn apart, all the samples will die, and we’d have to make another chain. I don’t want to do that. Lord, I cannot express how much I don’t want to do that. I squint into the distance, ever vigilant. Boredom is a real problem here. I know it will take quite a while to pull up this whole chain, but I have to be ready for the sampler.",
+    "target_text": "Sample device radio signal strong Getting closer. Be ready."
+  },
+  {
+    "input_text": "question: He’s aboard the Blip-A somewhere, but I know he can hear me. He can always hear me. After a few seconds, the radio crackles to life. “What, question?” “Two fuel bays still have Taumoeba.”",
+    "target_text": "Understand. Not good. But not bad. Other five are clean, question?"
+  },
+  {
+    "input_text": "question: “Yes.” I rub my eyes. Wow. The Blip-A had a crew of twenty-three. Rocky is the sole survivor and he’s understandably upset about it. “Wh…er…” I stammer. “Bad.”",
+    "target_text": "Bad bad bad."
+  },
+  {
+    "input_text": "question: I raise my eyebrows. “You’re coming into my ship?” “Want to see human technology. Is allowed, question?” “Yes! Allowed! What do you want to see?”",
+    "target_text": "Everything! Human science better than Eridian science. Machine that think. Eridians no have that. Many machines there Eridians no have."
+  },
+  {
+    "input_text": "question: Listen. I got to meet you. I got to do all this amazing stuff. I’m good. I’ve made peace with it.",
+    "target_text": "What mean? What mean “make peace”?"
+  },
+  {
+    "input_text": "question: “Ah, I see. How will you read the output?” “Camera inside convert from Earth light readout to Eridian texture readout. Like camera in control room. Before we leave, you explain written language to me.” He certainly knows enough English to look up any words he doesn’t know. “Yeah, sure. Our written language is easy. Kind of easy. There are only twenty-six letters, but many strange ways to say them. Well, I guess there are actually fifty-two symbols because capital letters look different even though they’re pronounced the same. Oh, and then there’s punctuation…”",
+    "target_text": "Our scholars will solve. You just get me started."
+  },
+  {
+    "input_text": "question: “What about twenty-six?”",
+    "target_text": "Ball is twenty-six."
+  },
+  {
+    "input_text": "question: I don’t think there is gonna be a later.",
+    "target_text": "Abort, abort, abort! Grace will die! No no no no no no no no!"
+  },
+  {
+    "input_text": "question: It’s simple, straightforward, elegant, and solves all the problems. The winch is powerful enough to lift the chain. It separates the links and lets them fall into the planet below. Having a long length of chain dangling down next to the one we’re pulling up would be a disaster. Imagine earbud wires getting tangled, then multiply that by 10 kilometers. No, each link will take its own path to oblivion below and the rising chain will be unaffected.",
+    "target_text": "Increase speed."
+  },
+  {
+    "input_text": "question: “What is it?” “Device keeps me alive in small room.” He looks happy. I think. He’s holding his carapace just a little higher than usual. “Wait.” He disappears back into his ship, leaving the device behind. He returns with several plates of transparent xenonite. Each plate is a pentagon about a centimeter thick and a foot across. I hate myself for thinking in hybrid units like that. But that’s what my brain came up with.",
+    "target_text": "I make room now"
+  },
+  {
+    "input_text": "question: “Yeah.” My smile fades. “This is happy! Your face opening is in sad mode. Why, question?” “Going to be a long trip and I’ll be all alone.” I haven’t decided if I want to risk a coma on the way home. I may have to for my own sanity. Total solitude and nothing to eat but chalky, nasty coma slurry might just be too much. For the first part of the trip, at least, I definitely plan to stay awake.",
+    "target_text": "You will miss me, question? I will miss you. You are friend."
+  },
+  {
+    "input_text": "question: The entire panel and pyro assembly is attached to the hull with six hex bolts. I pull a socket wrench from my tool belt and get to work. As soon as I unscrew the first bolt, it slides down the slope of the nose cone and falls away into the unknowable distance. “Um…” I say. “Rocky, you can make screws, right?”",
+    "target_text": "Yes. Easy. Why, question?"
+  },
+  {
+    "input_text": "question: Yeah, it’s here.",
+    "target_text": "Amaze, amaze, amaze"
+  },
+  {
+    "input_text": "question: “Eridians need water, too, you know.” “We keep inside. Closed system. Some inefficiencies inside, but we get all water we need from food. Humans leak! Gross.” I laugh as I float into the lab where Rocky is waiting. “On Earth, we have a scary, deadly creature called a spider. You look like one of those. Just so you know.”",
+    "target_text": "Good. Proud. I am scary space monster. You are leaky space blob. Check tanks!"
+  },
+  {
+    "input_text": "question: Rocky, stay.",
+    "target_text": "Rocky new to ball"
+  },
+  {
+    "input_text": "question: “Yes. Now.” I bring up the Centrifuge panel. “Prepare for gravity.”",
+    "target_text": "Yes, gravity. For science gear."
+  },
+  {
+    "input_text": "question: I could use my own equipment, but why not take advantage of superior material and craftsmanship? “Yes yes. I make now. We are team. We fix this. No be sad.” He skitters down the tunnel toward the dormitory. I check my watch. “The main thrust ends in thirty-four minutes. After that’s done, let’s use the beetles to put ourselves in centrifuge mode.”",
+    "target_text": "Dangerous."
+  },
+  {
+    "input_text": "question: I push him along into the dormitory. I give us a very slow velocity so he can take it all in from the center of the room. “I sleep here. Well, I used to. Then you made me sleep in the tunnel.” “You sleep alone, question?” “Yes.”",
+    "target_text": "I also sleep alone many times. Sad sad sad."
+  },
+  {
+    "input_text": "question: I hold up my hands. “It’s not just bad for me. It will kill me. Your whole ecology uses heavy metals all over the place. Most of them are toxic to me. I’d die immediately.” He trembles. “No. You no can die. You are friend.” I float closer to the divider wall and talk softly. “It’s okay. I made my decision. This is the only way to save both of our worlds.”",
+    "target_text": "Then you go home. Go home now. I wait here. Erid maybe send another ship someday."
+  },
+  {
+    "input_text": "question: . Well. My friend.",
+    "target_text": "Yes, friend?"
+  },
+  {
+    "input_text": "question: “Yes. I’ll think about it.” “How long until orbit, question?” I switch to the Navigation console. We’re right on course, and the orbital-insertion burn is scheduled for twenty-two hours from now. “Just under one day,” I say.",
+    "target_text": "Excitement Then we sample Astrophage at Adrian. You ship sampler working well, question?"
   }
 ]

@@ -5,7 +5,7 @@ Uses rocky_movie_lines.txt as anchors and matches them back to the
 script to find the preceding Grace dialogue as context.
 
 Usage:
-    python extract_movie_pairs.py movie_transcript.txt rocky_movie_lines.txt
+    python preprocessing/extract_movie_pairs.py corpus/movie_transcript.txt rocky_lines/rocky_movie_lines.txt
 
 Outputs:
     movie_pairs.json        - training pairs {"input": ..., "output": ...}
@@ -133,23 +133,52 @@ def main():
     unmatched   = []
     search_from = 0
 
+    seen_inputs = set()
+
     for raw_line in rocky_lines:
         if is_droppable(raw_line):
             continue
+
         output = clean_rocky_line(raw_line)
         if not output:
             continue
+
         rocky_norm = normalize(raw_line)
         idx = find_rocky_turn(rocky_norm, turns, search_from)
         if idx == -1:
             idx = find_rocky_turn(rocky_norm, turns, 0)
+
         if idx == -1:
             unmatched.append(raw_line)
             pairs.append({"input": "", "output": output, "raw": raw_line, "matched": False})
             continue
-        search_from = max(search_from, idx)
+
+        search_from = idx + 1
         context = get_grace_context(turns, idx, max_turns=3)
-        pairs.append({"input": context, "output": output, "raw": raw_line, "matched": True})
+
+        if context and context not in seen_inputs:
+            seen_inputs.add(context)
+            pairs.append({"input": context, "output": output, "raw": raw_line, "matched": True})
+        else:
+            pairs.append({"input": "", "output": output, "raw": raw_line, "matched": True})
+
+    # for raw_line in rocky_lines:
+    #     if is_droppable(raw_line):
+    #         continue
+    #     output = clean_rocky_line(raw_line)
+    #     if not output:
+    #         continue
+    #     rocky_norm = normalize(raw_line)
+    #     idx = find_rocky_turn(rocky_norm, turns, search_from)
+    #     if idx == -1:
+    #         idx = find_rocky_turn(rocky_norm, turns, 0)
+    #     if idx == -1:
+    #         unmatched.append(raw_line)
+    #         pairs.append({"input": "", "output": output, "raw": raw_line, "matched": False})
+    #         continue
+    #     search_from = max(search_from, idx)
+    #     context = get_grace_context(turns, idx, max_turns=3)
+    #     pairs.append({"input": context, "output": output, "raw": raw_line, "matched": True})
 
     matched    = sum(1 for p in pairs if p["matched"])
     no_context = sum(1 for p in pairs if p["matched"] and not p["input"])
