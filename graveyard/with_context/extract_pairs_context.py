@@ -6,7 +6,7 @@ for each line, then grabs the preceding Grace narration/dialogue as
 the input context.
 
 Usage:
-    python preprocessing/extract_pairs.py corpus/book_raw.txt rocky_lines/rocky_book_lines.txt
+    python extract_pairs.py book_raw.txt rocky_book_lines.txt
 
 Outputs:
     pairs.json          - training pairs {"input": ..., "output": ...}

@@ -35,6 +35,8 @@ def respond(prompt, tokenizer, model, device, max_length=128):
             num_beams=4,
             early_stopping=True,
             no_repeat_ngram_size=2,
+            temperature=0.3,
+            do_sample=True,
         )
 
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
