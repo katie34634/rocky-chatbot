@@ -182,14 +182,14 @@ def main():
         json.dump(training, f, indent=2, ensure_ascii=False)
     print(f"\nSaved movie_pairs.json ({len(training)} training pairs)")
 
-    with open("movie_pairs_review.txt", "w", encoding="utf-8") as f:
-        for i, p in enumerate(pairs):
-            status = "OK" if (p["matched"] and p["input"]) else ("no context" if p["matched"] else "unmatched")
-            f.write(f"=== {i+1}/{len(pairs)} [{status}] ===\n")
-            f.write(f"RAW    : {p['raw']}\n")
-            f.write(f"OUTPUT : {p['output']}\n")
-            f.write(f"INPUT  : {p['input']}\n\n")
-    print("Saved movie_pairs_review.txt")
+    # with open("movie_pairs_review.txt", "w", encoding="utf-8") as f:
+    #     for i, p in enumerate(pairs):
+    #         status = "OK" if (p["matched"] and p["input"]) else ("no context" if p["matched"] else "unmatched")
+    #         f.write(f"=== {i+1}/{len(pairs)} [{status}] ===\n")
+    #         f.write(f"RAW    : {p['raw']}\n")
+    #         f.write(f"OUTPUT : {p['output']}\n")
+    #         f.write(f"INPUT  : {p['input']}\n\n")
+    # print("Saved movie_pairs_review.txt")
 
     if unmatched:
         with open("movie_unmatched.txt", "w", encoding="utf-8") as f:

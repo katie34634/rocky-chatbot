@@ -33,7 +33,7 @@ No. Is not.
 It isn’t?
 Is not. Ball is twenty-six.
 I don’t understand.
-Wait. You left! Bad!”
+Wait. You left! Bad!
 I measured the mass! I made a very smart experiment.
 Twenty-six.
 Oh, Iron, Iron.
@@ -94,7 +94,7 @@ We, uh…we slept all the way here. Not a normal sleep. A special sleep. A dange
 Bad,
 Bad. Why did the other Eridians die?
 I not know. Everyone get sick. Then everyone die. I not sick. I not know why.
-Bad, What kind of sick?”
+Bad, What kind of sick?
 I need word. Small life. Single thing. Like Astrophage. Eridian body made of many many of these.
 Cell, My body is many many cells also.
 Cell, My crew have problem with cells. Many many cells die. Not infection. Not injury. No reason. But not me. Never me. Why, question? I not know.
@@ -748,7 +748,7 @@ Taumoeba. There are Taumoeba in the generator.
 They damage generator, question? Give me generator. I fix.
 The generator isn’t broken, If there are Taumoeba in the generator, it means there are Taumoeba in the fuel supply. Taumoeba ate all the Astrophage. We have no power because we have no fuel.
 How Taumoeba get into fuel, question?!
-There are Taumoeba in my lab. I didn’t keep them sealed off. I didn’t think to. Some probably got loose. The ship has a bunch of cracks, holes, and leaks ever since we almost died at Adrian. Some small hole in a fuel line somewhere must have let Taumoeba in. It only takes one.”
+There are Taumoeba in my lab. I didn’t keep them sealed off. I didn’t think to. Some probably got loose. The ship has a bunch of cracks, holes, and leaks ever since we almost died at Adrian. Some small hole in a fuel line somewhere must have let Taumoeba in. It only takes one.
 Bad! Bad bad bad!
 We’re dead in space. We’re stuck here forever.
 Not forever,
@@ -1218,4 +1218,3 @@ Astrophage? I can’t eat that! It’s ninety-six degrees all the time! It would
 Not Astrophage. Taumoeba. Eat Taumoeba.
 I can’t eat— I…what? I…I don’t know. Maybe I can.
 I have twenty-two million kilograms of Taumoeba in fuel bays. How much you want, question? Settled. Fist my bump.
-Fist-bump. It’s just ‘fist-bump.’

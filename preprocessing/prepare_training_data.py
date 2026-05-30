@@ -2,7 +2,7 @@
 Merge book and movie pairs, format for T5, and split into train/val.
 
 Usage:
-    python preprocessing/prepare_training_data.py preprocessing/pairs.json preprocessing/movie_pairs.json
+    python preprocessing/prepare_training_data.py datasets/dialogue/pairs.json datasets/dialogue/movie_pairs.json
 
 Outputs:
     train.json  - training set

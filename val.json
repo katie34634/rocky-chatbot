@@ -1,0 +1,302 @@
+[
+  {
+    "input_text": "question: Ha-ha, wow. Okay. Easy there. Hey, Tank Ten is also clear. We have Taumoeba-82.5!",
+    "target_text": "Good good good!"
+  },
+  {
+    "input_text": "question: I didn’t mean any of that. That’s just something you say. Thank you. Get over here.",
+    "target_text": "Woah, woah, woah, w-what? What’s happening?"
+  },
+  {
+    "input_text": "question: If you don’t mind.",
+    "target_text": "Rocky—Rocky get one!"
+  },
+  {
+    "input_text": "question: …I didn’t think of that.",
+    "target_text": "I did"
+  },
+  {
+    "input_text": "question: . . I’m trying to think if there’s anything I forgot…",
+    "target_text": "Fuel tank fix okay, question?"
+  },
+  {
+    "input_text": "question: Nope.",
+    "target_text": "Oh, o-okay, yeah"
+  },
+  {
+    "input_text": "question: I have the sampler. Returning.",
+    "target_text": "Amaze! Happy happy happy!"
+  },
+  {
+    "input_text": "question: Your ship has no name?",
+    "target_text": "Why would ship have name, question?"
+  },
+  {
+    "input_text": "question: What about twenty-six?",
+    "target_text": "Ball is twenty-six."
+  },
+  {
+    "input_text": "question: My original crew was three. Now it’s just me.",
+    "target_text": "Bad."
+  },
+  {
+    "input_text": "question: Hey, I have a question.",
+    "target_text": "Ask."
+  },
+  {
+    "input_text": "question: Ah, Crazy. My word for that is ‘crazy.’",
+    "target_text": "Crazy. Humans are crazy. Success! It functions!"
+  },
+  {
+    "input_text": "question: This is my lab, All the science happens here.",
+    "target_text": "Good good good room! Want to understand all!"
+  },
+  {
+    "input_text": "question: Ah! Yes.",
+    "target_text": "Better question, Why we think same speed, question?"
+  },
+  {
+    "input_text": "question: Oh ho ho. Do we really need this whole model?",
+    "target_text": "Need know why star not die. Need plan"
+  },
+  {
+    "input_text": "question: Angle achieved,",
+    "target_text": "Happy! Release, question?"
+  },
+  {
+    "input_text": "question: Thanks, but no time for rest. Want to use gravity while I can.",
+    "target_text": "I stay here. Tell me how experiments go."
+  },
+  {
+    "input_text": "question: Well, how do I do it? I don’t understand xenonite.",
+    "target_text": "Rotate tunnel."
+  },
+  {
+    "input_text": "question: The generator isn’t broken, If there are Taumoeba in the generator, it means there are Taumoeba in the fuel supply. Taumoeba ate all the Astrophage. We have no power because we have no fuel.",
+    "target_text": "How Taumoeba get into fuel, question?!"
+  },
+  {
+    "input_text": "question: Is that blocking your radiator? Isn’t that dangerous?",
+    "target_text": "No. This make hot air into cold air, I test. Works! Happy!"
+  },
+  {
+    "input_text": "question: ...Okay.",
+    "target_text": "I thought you made peace, question?"
+  },
+  {
+    "input_text": "question: Nothing—wait…I see something…. Okay, how do I use the batteries…?",
+    "target_text": "Progress, question?"
+  },
+  {
+    "input_text": "question: The Taumoeba evolved to resist nitrogen. But it also evolved to get into xenonite to hide from nitrogen. The side effect is Taumoeba-82.5 can work its way through xenonite over time.",
+    "target_text": "Amaze. Now what, question?"
+  },
+  {
+    "input_text": "question: Wait. I have more. Much more.",
+    "target_text": "More, question? Good."
+  },
+  {
+    "input_text": "question: Yes. Now. Prepare for gravity.",
+    "target_text": "Yes, gravity. For science gear."
+  },
+  {
+    "input_text": "question: We’ll create the needed rotation first, then shut off beetles, then unspool cables.",
+    "target_text": "If ship not unspooled, force is too much for human."
+  },
+  {
+    "input_text": "question: Yeah, but no oxygen. This is space. How did it burn?",
+    "target_text": "Theory: Many Astrophage in tanks. Some probably dead. Dead Astrophage have water. Dead Astrophage not immune to heat. Water and much much heat become hydrogen and oxygen. Oxygen and heat and hull becomes burn marks."
+  },
+  {
+    "input_text": "question: I’m going to put one on each beetle. Just in case something happens to the Hail Mary on the way home.",
+    "target_text": "Good plan! You are smart! I can make these for you. Also, today I finish fuel-transfer device. Can give you Astrophage now. Then we both go home!"
+  },
+  {
+    "input_text": "question: Can we do all that within fifty Earth years?",
+    "target_text": "Probably not. Why so fast, question?"
+  },
+  {
+    "input_text": "question: What? He tells me what to do, he tells me why to do it, he tells me how to do it, he tells me when to do it, and then when I do it, he’s like, “what are you doing?” I’m just saying you’re gonna get out of the ball and get into a much bigger ball?",
+    "target_text": "Yes, for sleeping"
+  },
+  {
+    "input_text": "question: It’s just carbon dioxide and nitrogen! Only carbon dioxide and nitrogen! Nothing more! Don’t ask me again!",
+    "target_text": "Yes. No ask again. Sorry."
+  },
+  {
+    "input_text": "question: Ships have names.",
+    "target_text": "What is name of you chair, question?"
+  },
+  {
+    "input_text": "question: Happy.",
+    "target_text": "Sample device radio signal strong, Getting closer. Be ready."
+  },
+  {
+    "input_text": "question: There’s no way you can hear me right now.",
+    "target_text": "Can hear. Who are you talking to?"
+  },
+  {
+    "input_text": "question: So?",
+    "target_text": "Most life no can live outside its air. I die if not in Erid air. You die if not in Earth air. But Taumoeba survive when not in Adrian air. Taumoeba stronger than Erid life—stronger than Earth life."
+  },
+  {
+    "input_text": "question: Fix. You fix. Wait, I sleep now,",
+    "target_text": "Sleep."
+  },
+  {
+    "input_text": "question: Mornin’, I’m going to eat. I’ll be back.",
+    "target_text": "Eat."
+  },
+  {
+    "input_text": "question: Can’t be. The spin drives are off. There’s nothing to accelerate us!",
+    "target_text": "Force increasing,"
+  },
+  {
+    "input_text": "question: It isn’t?",
+    "target_text": "Is not. Ball is twenty-six."
+  },
+  {
+    "input_text": "question: Yeah, I guess,",
+    "target_text": "You have many portable thinking machines. I ask favor: You give one to me as gift, question?"
+  },
+  {
+    "input_text": "question: You couldn’t fix it?",
+    "target_text": "Device not malfunction. Device broke. Fell off ship during trip. Device gone."
+  },
+  {
+    "input_text": "question: Good!",
+    "target_text": "Good good, Spool Eighteen away…air density increase… Spool Twenty away. All spools released. Air density of sampler is almost Astrophage breeding ground level… Sampler has closed! Seal is airtight, heater is on! Success success success!"
+  },
+  {
+    "input_text": "question: Agreed.",
+    "target_text": "Good findings,"
+  },
+  {
+    "input_text": "question: These are special body parts that focus and detect light. They send the information to my brain.",
+    "target_text": "Light gives you information, question? Enough information to understand room, question?"
+  },
+  {
+    "input_text": "question: Okay.",
+    "target_text": "What is current nitrogen tolerance, question?"
+  },
+  {
+    "input_text": "question: Spin drive, question?",
+    "target_text": "No. It’s offline. There’s zero thrust."
+  },
+  {
+    "input_text": "question: First I need to find it,",
+    "target_text": "You not know where you ship parts are, question?!"
+  },
+  {
+    "input_text": "question: Make sure you don’t get Taumoeba in your Astrophage over there!",
+    "target_text": "My Astrophage in sealed xenonite container. Is safe. You sleep now."
+  },
+  {
+    "input_text": "question: That wouldn’t power my spin drive for long. Thirty seconds or so. And it probably wouldn’t live long enough. There’s Taumoeba everywhere on my side of the partition. Keep your Astrophage safe on your side.",
+    "target_text": "I make new engine, Taumoeba turn Astrophage into methane. React with oxygen. Make fire. Make thrust. Get to my ship. Much Astrophage there."
+  },
+  {
+    "input_text": "question: Yes! Fist-bump!",
+    "target_text": "What, question?"
+  },
+  {
+    "input_text": "question: This is special liquid for celebration.",
+    "target_text": "Humans…eat to celebrate?"
+  },
+  {
+    "input_text": "question: Human bodies must sleep. Sleep is this. Humans sleep for twenty-nine thousand seconds.",
+    "target_text": "Many seconds… Why be still so many seconds, question…Understand! Eridians same! ♪♫♫♪!"
+  },
+  {
+    "input_text": "question: Not expected,",
+    "target_text": "Flaw in counting, question? How you count, question?"
+  },
+  {
+    "input_text": "question: It’s good for the species, A self-sacrifice instinct makes the species as a whole more likely to continue.",
+    "target_text": "Not all Eridians willing to die for others."
+  },
+  {
+    "input_text": "question: Maybe I can filter out the toxins.",
+    "target_text": "Maybe you can concentrate on Taumoeba."
+  },
+  {
+    "input_text": "question: Maybe. I’m not sure. A bunch of the bolt holes were unusable. So the bays aren’t connected as well as they should be.",
+    "target_text": "Danger, question? Your ship accelerate at 15 meters per second per second. Will tanks hold, question?"
+  },
+  {
+    "input_text": "question: What?!",
+    "target_text": "I can give. I have extra. Can give that much and still have plenty for my return to Erid. You can have."
+  },
+  {
+    "input_text": "question: Is there a minimum time? A maximum time?",
+    "target_text": "Minimum is 12,265 seconds. Maximum is 42,928 seconds."
+  },
+  {
+    "input_text": "question: Fishing! Can you believe it? It could work.",
+    "target_text": "Thumbs up, baby"
+  },
+  {
+    "input_text": "question: I don’t know, Do you have a light? Something you can shine through the xenonite into my side?",
+    "target_text": "No. Why would I have light, question?"
+  },
+  {
+    "input_text": "question: .",
+    "target_text": "What’s so funny, question?"
+  },
+  {
+    "input_text": "question: Science,",
+    "target_text": "Is biological. Is gross."
+  },
+  {
+    "input_text": "question: Oh, and you can sense that texture? Cool.",
+    "target_text": "Thank. What are wavelengths of light humans can see, question?"
+  },
+  {
+    "input_text": "question: Yeah, I-I know. And I ignored you.",
+    "target_text": "Grace, the door. Close the door"
+  },
+  {
+    "input_text": "question: I made Venus in the tank. But not quite Venus. Venus’s air is 96.5 percent carbon dioxide and 3.5 percent nitrogen. I started with just the carbon dioxide. The Taumoeba were fine. Then I added the nitrogen. And the Taumoeba all died.",
+    "target_text": "All die, question? Sudden, question?"
+  },
+  {
+    "input_text": "question: It’s fine, it’s just—the sky is...slightly on fire.",
+    "target_text": "Words of encouragement"
+  },
+  {
+    "input_text": "question: You’re the only person on that huge ship?!",
+    "target_text": "Original crew was twenty-three. Now is only me."
+  },
+  {
+    "input_text": "question: We’re dead in space. We’re stuck here forever.",
+    "target_text": "Not forever,"
+  },
+  {
+    "input_text": "question: Okay. What will you use that for?",
+    "target_text": "If all plans work, we make good Taumoeba. I give you fuel. You go Earth and I go Erid. We say goodbye."
+  },
+  {
+    "input_text": "question: I succeeded, My ship isn’t made of xenonite.",
+    "target_text": "What happen, question?"
+  },
+  {
+    "input_text": "question: Oh, Iron, Iron.",
+    "target_text": "Iron,"
+  },
+  {
+    "input_text": "question: Yes. Maybe the weather affects breeding?",
+    "target_text": "Maybe. Can you calculate altitude, question?"
+  },
+  {
+    "input_text": "question: We need to talk about mass.",
+    "target_text": "Yes. Kilogram."
+  },
+  {
+    "input_text": "question: It makes small things. I tell the computer a shape, and it tells this machine how to make it.",
+    "target_text": "I can see it make small thing, question?"
+  },
+  {
+    "input_text": "question: Why. Doesn’t. This. Work?!",
+    "target_text": "No predator, question?"
+  }
+]
