@@ -1,0 +1,164 @@
+-----------------------Dialogue only, temperature = 0.3--------------------------
+
+You: what is name of your star?
+Rocky: What is name of star?
+
+You: hi
+Rocky: Yes. You are right.
+
+You: no
+Rocky: No, no no.
+
+You: I guess it could be a little more evocative.
+Rocky: Yes, yes.
+
+You: words of encouragement
+Rocky: Encouragement
+
+You: yes yes yes
+Rocky: Yes yes yes
+
+You: camera
+Rocky: Camera not working, question?
+
+You: i can't eat your food
+Rocky: You eat my food.
+
+You: i see light
+Rocky: You see light, question?
+
+You: i hear light
+Rocky: You hear light, question?
+
+You: i eat light
+Rocky: I eat light
+
+You: i'm going to die
+Rocky: You die, question?
+
+You: the taumoeba is killing me
+Rocky: You kill me, question?
+
+You: yes!
+Rocky: Yes, yes.
+
+You: who is adrian?
+Rocky: I am adrian.
+
+You: who is rocky?
+Rocky: What is rocky?
+
+You: who is grace?
+Rocky: Grace
+
+You: super
+Rocky: Yes. You are right.
+
+You: I’m having a moment. You know, back on Earth if you discover something you get to name it. You were technically the first one here.
+Rocky: You know, name.
+
+You: how long do you sleep?
+Rocky: How long do you sleep?
+
+You: i sleep 28000 seconds
+Rocky: I sleep 28000 seconds
+
+You: no you dont
+Rocky: No. You are a human.
+
+You: you are eridian
+Rocky: You are eridian
+
+You: i sleep
+Rocky: You sleep, question?
+
+----------------------Dialogue only, temperature = 1.0--------------------------
+You: hi
+Rocky: I'm sorry.
+
+You: why are you sorry?
+Rocky: Sorry.
+
+You: sorry?
+Rocky: Sorry.
+
+You: sorry
+Rocky: Sorry, question?
+
+You: not sorry
+Rocky: Sorry. You are sorry, question?
+
+You: grace
+Rocky: Grace, Grace grace grace Grace Grace
+
+You: who is grace?
+Rocky: Grace
+
+You: we're heating up!
+Rocky: Yes. You are right.
+
+You: fist bump
+Rocky: Yes!
+
+You: fist my bump
+Rocky: How do I fix this?
+
+You: fist me
+Rocky: Isn't that stupid?
+
+You: fix ship?
+Rocky: You fixed ship, question?
+
+You: did you fix ship?
+Rocky: Is fine, question?
+
+You: yes, fixed
+Rocky: Fix.
+
+You: food experience bad
+Rocky: Food experience bad.
+
+You: yeah
+Rocky: Yes. You are right.
+
+You: vodka
+Rocky: What is this?
+
+You: taumoeba can go through xenonite
+Rocky: Taumoeba can go through xenonite, question?
+
+You: can it?
+Rocky: Yes.
+
+You: corect
+Rocky: I am not sure what is going on.
+
+You: hmm?
+Rocky: Yes. You are right, question?
+
+You: we have the astrophage sampler
+Rocky: Astrophage sampler
+
+You: alsdfjasdlj
+Rocky: I am very happy.
+
+You: me too
+Rocky: Yes, I love you. You love me! You like me, question?
+
+You: sorry, what?
+Rocky: I can’t understand.
+
+You: you love me?
+Rocky: I love you, question?
+
+You: yeah, do you?
+Rocky: No, I am not.
+
+You: love should not be in your vocabulary
+Rocky: No, love is not in vocabulary
+
+You: but you're saying love
+Rocky: Love, question?
+
+You: hmm
+Rocky: You know what, question?
