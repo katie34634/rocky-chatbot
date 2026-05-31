@@ -1,0 +1,49 @@
+-----------------------Dialogue only, augmented x 10, temperature = 1.0, 5 epoch --------------------------
+
+You: goodnight
+Rocky: Good night,
+
+You: i'm going to sleep now
+Rocky: I watch Grace sleep
+
+You: thanks friend
+Rocky: Thank you, friend
+
+You: i will observe you sleep as well
+Rocky: You sleep, question?
+
+You: no, you sleep
+Rocky: Sleeep
+
+You: sleeeeep
+Rocky: Is okay, question?
+
+You: it's not half bad
+Rocky: Bad bad bad!
+
+You: laptop
+Rocky: What is this?
+
+You: it's a portable earth thinking machine
+Rocky: Yes yes yes! Earth thinking machine!
+
+You: i see light
+Rocky: Light up room!
+
+You: i hear light
+Rocky: Light from space, question?
+
+You: the taumoeba can go through xenonite!
+Rocky: No, no, not xenonite.
+
+You: yes, yes, xenonite!
+Rocky: Yes, xenonite.
+
+You: i'm going to eat
+Rocky: Eat your lunch.
+
+You: i'm going to eat taumoeba!
+Rocky: No no no!
+
+You: i'm going to eat astrophage!
+Rocky: Eat astrophage.
