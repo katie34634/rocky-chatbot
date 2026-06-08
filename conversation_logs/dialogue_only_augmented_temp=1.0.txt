@@ -1,0 +1,49 @@
+-----------------------Dialogue only, augmented x 10, temperature = 1.0, "best" model (1 epoch) --------------------------
+
+You: hi
+Rocky: Is okay, question?
+
+You: can i think about it?
+Rocky: What is this, question?
+
+You: we're heating up
+Rocky: Why, question?
+
+You: we're getting cooked!
+Rocky: Yes. We are ready. You are safe, question?
+
+You: i love you
+Rocky: I love you.
+
+You: me too
+Rocky: You are cool, question?
+
+You: hi rocky
+Rocky: I don't know. You are ok, question?
+
+You: i'm ok
+Rocky: Good good good,
+
+You: are you ok?
+Rocky: You are ok, question?
+
+You: can i eat taumoeba?
+Rocky: No no no!
+
+You: can i eat xenonite?
+Rocky: No. I have xenonite in my body.
+
+You: you don't have xenonite in your body
+Rocky: No. You have xenonite in your body.
+
+You: how long has it been since you slept?
+Rocky: How long since last sleep, question?
+
+You: we're going to die
+Rocky: You die, question?
+
+You: yes
+Rocky: Yes. You are right, question?
+
+You: amaze 
+Rocky: No no no. You are human, question?

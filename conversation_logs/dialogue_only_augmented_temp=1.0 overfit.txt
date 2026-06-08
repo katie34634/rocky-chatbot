@@ -1,4 +1,4 @@
------------------------Dialogue only, augmented x 10, temperature = 1.0, 5 epoch --------------------------
+-----------------------Dialogue only, augmented x 10, temperature = 1.0, 5 epochs --------------------------
 
 You: goodnight
 Rocky: Good night,
@@ -47,3 +47,27 @@ Rocky: No no no!
 
 You: i'm going to eat astrophage!
 Rocky: Eat astrophage.
+
+You: hi
+Rocky: Hello Grace Friend
+
+You: my name is grace and i love astrophage
+Rocky: Grace
+
+You: fart
+Rocky: Is okay, question?
+
+You: can you go back in time?    
+Rocky: Yes yes. Now I know where you go, question?
+
+You: the taumoeba can get through xenonite oh no!
+Rocky: No. They eat xenonite.
+
+You: taumoeba eat astrophage, not xenonite
+Rocky: Astrophage is not xenonite.
+
+You: true
+Rocky: You are bravest human I have ever met
+
+You: thanks rocky
+Rocky: Grace, question?

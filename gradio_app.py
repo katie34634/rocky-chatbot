@@ -8,7 +8,7 @@ import inference
 DEFAULT_MODEL = "weights/rocky-dialogue-augmented-t5/checkpoint-epoch-5"
 DEFAULT_DEVICE = "cpu"
 ROCKY_ICON_PATH = "gui/rocky_icon.png"
-USER_ICON_PATH = "gui/user_icon_2.jpg"
+USER_ICON_PATH = "gui/user_icon.jpeg"
 CSS_PATH = "gui/styles.css"
 
 def load_css():
@@ -68,11 +68,11 @@ def build_app(tokenizer, model, device):
 
             gr.Examples(
                 examples=[
-                    "Rocky, are you there?",
-                    "We need to fix the ship.",
-                    "How much time do we have?",
-                    "Can you help me think through this?",
-                    "The mission is in trouble.",
+                    "I'm going to sleep now.",
+                    "Can I eat Taumoeba?",
+                    "Tell me about xenonite.",
+                    "We're going to die!",
+                    "Can you hear me?",
                 ],
                 inputs=msg,
                 label="Try these",

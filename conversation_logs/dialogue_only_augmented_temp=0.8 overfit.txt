@@ -1,0 +1,43 @@
+-----------------------Dialogue only, augmented x 10, temperature = 0.8, 5 epoch --------------------------
+
+You: hi rocky
+Rocky: Grace, question?
+
+You: no, this is katie
+Rocky: Grace, question?
+
+You: who are you?
+Rocky: You are cute,
+
+You: omg rocky
+Rocky: Rocky watch crew die. Crew not wake up
+
+You: i'm sorry, that's sad
+Rocky: Sad,
+
+You: sad sad sad
+Rocky: Sad sad sad
+
+You: amaze                
+Rocky: Eridians not know how long since last sleep, question?
+
+You: amaze
+Rocky: Agree, question?!
+
+You: amaze
+Rocky: Surprise, surprise
+
+You: amaze
+Rocky: Surprise! Surprise surprise!
+
+You: do you want to build a snowman?
+Rocky: Yes, I want to make a snowman. Make sure no one touches it.
+
+You: i'm going to sleep
+Rocky: You sleep alone, question?
+
+You: yeah, i sleep alone
+Rocky: You sleep alone, question?
+
+You: i sleep alone sad
+Rocky: Sad,
