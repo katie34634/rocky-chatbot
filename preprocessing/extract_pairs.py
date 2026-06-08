@@ -2,7 +2,8 @@
 Extract Grace-to-Rocky training pairs.
 
 Uses rocky_book_lines.txt as anchors, searches the book text for each
-Rocky line, then grabs the preceding Grace dialogue as the input.
+Rocky line, then grabs the preceding Grace dialogue as the input. Gives entire
+context paragraphs to the model, not just dialogue lines.
 
 Usage:
     python preprocessing/extract_pairs.py corpus/book_raw.txt rocky_lines/rocky_book_lines.txt

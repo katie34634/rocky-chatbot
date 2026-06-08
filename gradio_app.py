@@ -3,23 +3,22 @@ import argparse
 import gradio as gr
 import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
-import inference as inference
-
+import inference
 
 DEFAULT_MODEL = "weights/rocky-dialogue-augmented-t5/checkpoint-epoch-5"
 DEFAULT_DEVICE = "cpu"
+ICON_PATH = "gui/rocky_icon.png"
+CSS_PATH = "gui/styles.css"
 
 def load_css():
-    """Load CSS from file for hot reloading."""
     try:
-        with open("styles.css", "r") as f:
+        with open(CSS_PATH, "r") as f:
             return f.read()
     except FileNotFoundError:
         return ""
 
 
 def build_app(tokenizer, model, device):
-    # Load CSS fresh on each module reload
     css = load_css()
     
     def chat(message, history):
@@ -42,16 +41,15 @@ def build_app(tokenizer, model, device):
                 <div id="hero">
                 <h1>Rocky Chat</h1>
                 <div class="subtitle">
-                    A Project Hail Mary themed chat interface for talking to Rocky.
+                    Talk to Rocky.
                 </div>
                 </div>
                 """
             )
 
-            # gr.HTML('<div class="panel-header">Conversation Log</div>')
             chatbot = gr.Chatbot(label='Rocky',
                                  scale=1,
-                                 avatar_images=(None, "rocky_icon.png"),
+                                 avatar_images=(None, ICON_PATH),
                                  elem_classes="chatbot")
             
             with gr.Row(scale=1):

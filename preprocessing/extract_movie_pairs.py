@@ -5,7 +5,7 @@ Uses rocky_movie_lines.txt as anchors and matches them back to the
 script to find the preceding Grace dialogue as context.
 
 Usage:
-    python preprocessing/extract_movie_pairs.py corpus/movie_transcript.txt rocky_lines/rocky_movie_lines.txt
+    python preprocessing/extract_movie_pairs.py big_data/corpus/movie_transcript.txt big_data/rocky_lines/rocky_movie_lines.txt
 
 Outputs:
     movie_pairs.json        - training pairs {"input": ..., "output": ...}
@@ -181,20 +181,6 @@ def main():
     with open("movie_pairs.json", "w", encoding="utf-8") as f:
         json.dump(training, f, indent=2, ensure_ascii=False)
     print(f"\nSaved movie_pairs.json ({len(training)} training pairs)")
-
-    # with open("movie_pairs_review.txt", "w", encoding="utf-8") as f:
-    #     for i, p in enumerate(pairs):
-    #         status = "OK" if (p["matched"] and p["input"]) else ("no context" if p["matched"] else "unmatched")
-    #         f.write(f"=== {i+1}/{len(pairs)} [{status}] ===\n")
-    #         f.write(f"RAW    : {p['raw']}\n")
-    #         f.write(f"OUTPUT : {p['output']}\n")
-    #         f.write(f"INPUT  : {p['input']}\n\n")
-    # print("Saved movie_pairs_review.txt")
-
-    if unmatched:
-        with open("movie_unmatched.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(unmatched))
-        print(f"Saved movie_unmatched.txt ({len(unmatched)} lines)")
 
 
 if __name__ == "__main__":

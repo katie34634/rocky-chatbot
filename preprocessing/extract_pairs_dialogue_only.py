@@ -2,7 +2,7 @@
 Extract Grace-to-Rocky training pairs.
 
 Usage:
-    python preprocessing/extract_pairs_dialogue_only.py DATA_I_CLEANED_BY_HAND/book_pairs.txt
+    python preprocessing/extract_pairs_dialogue_only.py cleaned_pairs/book_pairs.txt
 
 Outputs:
     pairs.json          - training pairs {"input": ..., "output": ...}
