@@ -7,7 +7,8 @@ import inference
 
 DEFAULT_MODEL = "weights/rocky-dialogue-augmented-t5/checkpoint-epoch-5"
 DEFAULT_DEVICE = "cpu"
-ICON_PATH = "gui/rocky_icon.png"
+ROCKY_ICON_PATH = "gui/rocky_icon.png"
+USER_ICON_PATH = "gui/user_icon_2.jpg"
 CSS_PATH = "gui/styles.css"
 
 def load_css():
@@ -49,7 +50,7 @@ def build_app(tokenizer, model, device):
 
             chatbot = gr.Chatbot(label='Rocky',
                                  scale=1,
-                                 avatar_images=(None, ICON_PATH),
+                                 avatar_images=(USER_ICON_PATH, ROCKY_ICON_PATH),
                                  elem_classes="chatbot")
             
             with gr.Row(scale=1):
