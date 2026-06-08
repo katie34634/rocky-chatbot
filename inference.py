@@ -3,7 +3,7 @@ Chat with Rocky.
 
 Usage:
     python inference.py
-    python inference.py --model rocky-t5/best
+    python inference.py --model weights/rocky-dialogue-augmented-t5/checkpoint-epoch-5
 """
 
 import argparse
@@ -23,7 +23,7 @@ def respond(prompt, tokenizer, model, device, max_length=128):
     inputs = tokenizer(
         input_text,
         return_tensors="pt",
-        max_length=256,
+        max_length=max_length,
         truncation=True,
     ).to(device)
 
@@ -35,7 +35,7 @@ def respond(prompt, tokenizer, model, device, max_length=128):
             num_beams=4,
             early_stopping=True,
             no_repeat_ngram_size=2,
-            temperature=0.8,
+            temperature=1.0,
             do_sample=True,
         )
 
@@ -44,7 +44,7 @@ def respond(prompt, tokenizer, model, device, max_length=128):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", default="weights/best")
+    parser.add_argument("--model", default="weights/rocky-dialogue-augmented-t5/checkpoint-epoch-5")
     args = parser.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
