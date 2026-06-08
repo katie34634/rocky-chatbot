@@ -1,0 +1,166 @@
+:root {
+    --bg-0: #147d03;
+    --bg-1: #c6af17;
+    --bg-2: #9c1b1b;
+    --accent-0: #67f2c2;
+    --accent-1: #ffb347;
+    --user-color: #00e192;
+    --bot-color: #fa960b;
+    --text: #eaf4ff;
+    --muted: #e7eaed;
+    --layer: #eeeeee;
+    --accent: #f267df;
+    --border: #67f2c22e;
+    --border-1: #2c9b7446;
+    --button-bg: #67f2c214;
+    --button-bg-1: #67f2c22e;
+}
+
+html, body {
+    background: transparent;
+    color: var(--text);
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+/* Outer container */
+
+.gradio-container {
+    background: linear-gradient(180deg, var(--accent-0), var(--accent-1), var(--bg-2));
+    color: var(--text);
+    font-family: "Avenir Next", "Trebuchet MS", "Segoe UI", sans-serif;
+
+    height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    gap: 0.5rem;
+    box-sizing: border-box;
+}
+
+.gradio-container > .app,
+.gradio-container > .main,
+.gradio-container > .app > .contain,
+.gradio-container > .main > .gap,
+.gradio-container > .app > .contain > .gap {
+    flex: 1 1 0;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.html-container {
+    padding: 0;
+}
+
+/* top box */
+#hero {
+    flex-shrink: 0;
+    max-width: 100%;
+    padding: 0.6rem 1rem;
+    border: 2px solid var(--border);
+    border-radius: 12px;
+    background: linear-gradient(180deg, var(--bg-0), var(--bg-1));
+}
+
+#hero h1 {
+    margin: 0;
+    color: var(--text);
+    letter-spacing: 0.08em;
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#hero .subtitle {
+    margin-top: 0.2rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.1;
+}
+
+.chatbot {
+    background: rgba(255, 255, 255, 0.15);
+    max-width: 100%;
+    flex: 1 1 0 !important;
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.chatbot .bubble-wrap {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.chat-shell {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.chatbot .message.user {
+    border-radius: 10px 10px 0 10px;
+    border: 2px solid var(--user-color);
+}
+
+.chatbot .message.bot {
+    border-radius: 10px 10px 10px 0;
+    border: 2px solid var(--bot-color);
+}
+
+.chatbot .avatar-container {    
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.chatbot .avatar-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 0;
+    border-radius: 0%;
+}
+
+.send-button {
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: linear-gradient(0deg, var(--button-bg-1), var(--button-bg));
+    color: var(--text) !important;
+    font-size: 0.85rem;
+    padding: 0.4rem 0.8rem;
+}
+
+.clear-button {
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: linear-gradient(0deg, var(--button-bg-1), var(--button-bg));
+    color: var(--text);
+    font-size: 0.85rem;
+    padding: 0.4rem 0.8rem;
+}
+
+.send-button:hover,
+.clear-button:hover {
+    background: linear-gradient(180deg, #67f2c247, var(--button-bg-1));
+}
+
+.input textarea {
+    background: #eeeeee27;
+    border: 1px solid var(--layer);
+}
+
+div {
+    background: transparent;
+}
+
+.gradio-container .prose,
+.gradio-container .markdown,
+.gradio-container .wrap {
+    color: var(--text) !important;
+}
